@@ -1,0 +1,262 @@
+[
+    {
+        "location": {
+            "latitude": 32.003853899999996,
+            "longitude": 34.7964991
+        },
+        "rating": 4.3,
+        "userRatingCount": 4818,
+        "displayName": {
+            "text": "Silo",
+            "languageCode": "en"
+        },
+        "distance_to_center": 601.3371681429024
+    },
+    {
+        "location": {
+            "latitude": 32.0081931,
+            "longitude": 34.7993288
+        },
+        "rating": 3.7,
+        "userRatingCount": 1498,
+        "displayName": {
+            "text": "Landwer",
+            "languageCode": "en"
+        },
+        "distance_to_center": 128.8472723928103
+    },
+    {
+        "location": {
+            "latitude": 32.0080032,
+            "longitude": 34.8002166
+        },
+        "rating": 4.3,
+        "userRatingCount": 1746,
+        "displayName": {
+            "text": "BBB - Burgus Burger Bar",
+            "languageCode": "en"
+        },
+        "distance_to_center": 42.530698505478625
+    },
+    {
+        "location": {
+            "latitude": 32.010526399999996,
+            "longitude": 34.7961386
+        },
+        "rating": 4.4,
+        "userRatingCount": 951,
+        "displayName": {
+            "text": "Burger Saloon",
+            "languageCode": "en"
+        },
+        "distance_to_center": 514.7593521753645
+    },
+    {
+        "location": {
+            "latitude": 32.010713599999995,
+            "longitude": 34.7968221
+        },
+        "rating": 4.6,
+        "userRatingCount": 260,
+        "displayName": {
+            "text": "\u05e8\u05de\u05d1\u05dc\u05d4 - Rambla",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 475.8861215641655
+    },
+    {
+        "location": {
+            "latitude": 32.0070378,
+            "longitude": 34.8070448
+        },
+        "rating": 4,
+        "userRatingCount": 324,
+        "displayName": {
+            "text": "\u05de\u05e4\u05d2\u05e9 \u05e1\u05d1\u05d5\u05d9 \u05d7\u05d5\u05dc\u05d5\u05df",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 610.9266275786633
+    },
+    {
+        "location": {
+            "latitude": 32.0101738,
+            "longitude": 34.7956364
+        },
+        "rating": 4.4,
+        "userRatingCount": 171,
+        "displayName": {
+            "text": "\u05e7\u05e0\u05e1\u05d0\u05d9 \u05d7\u05d5\u05dc\u05d5\u05df",
+            "languageCode": "en"
+        },
+        "distance_to_center": 535.4151292894506
+    },
+    {
+        "location": {
+            "latitude": 32.0076,
+            "longitude": 34.799200000000006
+        },
+        "rating": 3.3,
+        "userRatingCount": 767,
+        "displayName": {
+            "text": "McDonald's",
+            "languageCode": "en"
+        },
+        "distance_to_center": 143.1538257722633
+    },
+    {
+        "location": {
+            "latitude": 32.004076399999995,
+            "longitude": 34.8021733
+        },
+        "rating": 4.7,
+        "userRatingCount": 36,
+        "displayName": {
+            "text": "\u05e7\u05d5\u05e4\u05d9 \u05d1\u05e8\u05d9\u05d9\u05e7 - 7g coffee break",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 453.47908051335077
+    },
+    {
+        "location": {
+            "latitude": 32.007118999999996,
+            "longitude": 34.799366299999996
+        },
+        "rating": 3.8,
+        "userRatingCount": 1910,
+        "displayName": {
+            "text": "River Noodles",
+            "languageCode": "en"
+        },
+        "distance_to_center": 152.85670621653264
+    },
+    {
+        "location": {
+            "latitude": 32.003299999999996,
+            "longitude": 34.797
+        },
+        "rating": 2.7,
+        "userRatingCount": 258,
+        "displayName": {
+            "text": "McDonald's",
+            "languageCode": "en"
+        },
+        "distance_to_center": 621.7897898662328
+    },
+    {
+        "location": {
+            "latitude": 32.0124693,
+            "longitude": 34.7979814
+        },
+        "rating": 3.9,
+        "userRatingCount": 141,
+        "displayName": {
+            "text": "\u05e9\u05d5\u05d5\u05d0\u05e8\u05de\u05d4 \u05d1\u05d8\u05e2\u05dd \u05e9\u05dc \u05e2\u05d5\u05d3..",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 563.8016551089295
+    },
+    {
+        "location": {
+            "latitude": 32.0136658,
+            "longitude": 34.8027583
+        },
+        "rating": 4.3,
+        "userRatingCount": 699,
+        "displayName": {
+            "text": "Hummus Hassouni",
+            "languageCode": "en"
+        },
+        "distance_to_center": 667.0845152748966
+    },
+    {
+        "location": {
+            "latitude": 32.0081736,
+            "longitude": 34.7917367
+        },
+        "rating": 3.8,
+        "userRatingCount": 267,
+        "displayName": {
+            "text": "\u05e9\u05e0\u05d9\u05e6\u05dc 20 \u05d8\u05e2\u05de\u05d9\u05dd",
+            "languageCode": "en"
+        },
+        "distance_to_center": 842.8603692356936
+    },
+    {
+        "location": {
+            "latitude": 32.0078893,
+            "longitude": 34.800380499999996
+        },
+        "rating": 4.3,
+        "userRatingCount": 231,
+        "displayName": {
+            "text": "Pizza Central",
+            "languageCode": "en"
+        },
+        "distance_to_center": 27.19742306008502
+    },
+    {
+        "location": {
+            "latitude": 32.0119565,
+            "longitude": 34.79285
+        },
+        "rating": 4.3,
+        "userRatingCount": 1126,
+        "displayName": {
+            "text": "\u05e4\u05dc\u05d0\u05e4\u05dc \u05d1\u05d8\u05e2\u05dd \u05e9\u05dc \u05e2\u05d5\u05d3",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 862.1529224881929
+    },
+    {
+        "location": {
+            "latitude": 32.0127625,
+            "longitude": 34.8024746
+        },
+        "rating": 4.3,
+        "userRatingCount": 408,
+        "displayName": {
+            "text": "\u05d7\u05de\u05d9\u05dd \u05d5\u05d8\u05e2\u05d9\u05dd | \u05d7\u05e0\u05d5\u05ea \u05d4\u05de\u05e4\u05e2\u05dc | \u05d0\u05d5\u05db\u05dc \u05de\u05d5\u05db\u05df | \u05de\u05e1\u05e2\u05d3\u05d4",
+            "languageCode": "en"
+        },
+        "distance_to_center": 563.1284424040667
+    },
+    {
+        "location": {
+            "latitude": 32.0105176,
+            "longitude": 34.7997684
+        },
+        "rating": 4.1,
+        "userRatingCount": 1000,
+        "displayName": {
+            "text": "\u05e7\u05dc\u05d1\u05d5\u05e0\u05d9 \u05d7\u05d5\u05dc\u05d5\u05df",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 298.73516122443846
+    },
+    {
+        "location": {
+            "latitude": 32.0150807,
+            "longitude": 34.802083700000004
+        },
+        "rating": 4.6,
+        "userRatingCount": 427,
+        "displayName": {
+            "text": "BAR-MAROC / \u05d1\u05e8 - \u05de\u05e8\u05d5\u05e7",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 805.813872607593
+    },
+    {
+        "location": {
+            "latitude": 32.010837599999995,
+            "longitude": 34.8083269
+        },
+        "rating": 4.4,
+        "userRatingCount": 94,
+        "displayName": {
+            "text": "\u05de\u05e1\u05e2\u05d3\u05ea \u05d4\u05d3\u05d5\u05d3\u05e7\u05d0",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 792.068492998368
+    }
+]

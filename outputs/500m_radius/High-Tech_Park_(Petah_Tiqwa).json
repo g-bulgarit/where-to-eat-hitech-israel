@@ -1,0 +1,106 @@
+[
+    {
+        "location": {
+            "latitude": 32.1012335,
+            "longitude": 34.8506626
+        },
+        "rating": 4,
+        "userRatingCount": 4500,
+        "displayName": {
+            "text": "Alfredo | \u05de\u05e1\u05e2\u05d3\u05ea \u05d0\u05dc\u05e4\u05e8\u05d3\u05d5",
+            "languageCode": "en"
+        },
+        "distance_to_center": 286.6614241829482
+    },
+    {
+        "location": {
+            "latitude": 32.0997428,
+            "longitude": 34.8543357
+        },
+        "rating": 4,
+        "userRatingCount": 2814,
+        "displayName": {
+            "text": "Nafis",
+            "languageCode": "en"
+        },
+        "distance_to_center": 109.18103149810156
+    },
+    {
+        "location": {
+            "latitude": 32.099926499999995,
+            "longitude": 34.854126
+        },
+        "rating": 4.6,
+        "userRatingCount": 2322,
+        "displayName": {
+            "text": "\u05d4\u05de\u05e7\u05d3\u05e9 - \u05de\u05e1\u05e2\u05d3\u05ea \u05d1\u05e9\u05e8\u05d9\u05dd",
+            "languageCode": "en"
+        },
+        "distance_to_center": 90.58621467803076
+    },
+    {
+        "location": {
+            "latitude": 32.100901199999996,
+            "longitude": 34.851033699999995
+        },
+        "rating": 4.2,
+        "userRatingCount": 6,
+        "displayName": {
+            "text": "Sum Sum \u05d1\u05e8 \u05d1\u05e8\u05d9\u05d0",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 237.19603900152893
+    },
+    {
+        "location": {
+            "latitude": 32.096489,
+            "longitude": 34.8499149
+        },
+        "rating": 4.9,
+        "userRatingCount": 38,
+        "displayName": {
+            "text": "\u05d3\u05dc\u05d9\u05d6 - deliz",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 479.2851731021635
+    },
+    {
+        "location": {
+            "latitude": 32.1004787,
+            "longitude": 34.8498483
+        },
+        "rating": 3.9,
+        "userRatingCount": 27,
+        "displayName": {
+            "text": "\u05e6'\u05d9\u05e7\u05df \u05e4\u05d9\u05e7 Chick & Pick",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 323.3533502482595
+    },
+    {
+        "location": {
+            "latitude": 32.0999243,
+            "longitude": 34.854137
+        },
+        "rating": 3,
+        "userRatingCount": 2,
+        "displayName": {
+            "text": "\u05e1\u05dc\u05d8\u05d9 \u05d1\u05e8\u05d9\u05d0 \u05d1\u05e2\u05d9\u05e8",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 91.56820368443563
+    },
+    {
+        "location": {
+            "latitude": 32.1007361,
+            "longitude": 34.84995310000001
+        },
+        "rating": 5,
+        "userRatingCount": 2,
+        "displayName": {
+            "text": "\u05d2'\u05e4\u05d0\u05df \u05d2'\u05e4\u05d0\u05df",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 321.97351817944235
+    }
+]

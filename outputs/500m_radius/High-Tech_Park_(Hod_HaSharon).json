@@ -1,0 +1,210 @@
+[
+    {
+        "location": {
+            "latitude": 32.1331444,
+            "longitude": 34.9007396
+        },
+        "rating": 4.1,
+        "userRatingCount": 4859,
+        "displayName": {
+            "text": "Segev Express",
+            "languageCode": "en"
+        },
+        "distance_to_center": 395.24521502829214
+    },
+    {
+        "location": {
+            "latitude": 32.130576999999995,
+            "longitude": 34.8949012
+        },
+        "rating": 4.3,
+        "userRatingCount": 2474,
+        "displayName": {
+            "text": "Republic",
+            "languageCode": "en"
+        },
+        "distance_to_center": 360.46559932978494
+    },
+    {
+        "location": {
+            "latitude": 32.1310642,
+            "longitude": 34.8935528
+        },
+        "rating": 4.4,
+        "userRatingCount": 142,
+        "displayName": {
+            "text": "\u05d2'\u05d9\u05e8\u05e3 \u05d4\u05d5\u05d3 \u05d4\u05e9\u05e8\u05d5\u05df",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 392.118083479911
+    },
+    {
+        "location": {
+            "latitude": 32.1313227,
+            "longitude": 34.8940477
+        },
+        "rating": 4.7,
+        "userRatingCount": 111,
+        "displayName": {
+            "text": "\u05d1\u05d5\u05e8\u05d2\u05e8 \u05e1\u05d0\u05dc\u05d5\u05df",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 338.6698805373241
+    },
+    {
+        "location": {
+            "latitude": 32.133086,
+            "longitude": 34.9007326
+        },
+        "rating": 3.2,
+        "userRatingCount": 267,
+        "displayName": {
+            "text": "McDonald's",
+            "languageCode": "en"
+        },
+        "distance_to_center": 395.27865971797206
+    },
+    {
+        "location": {
+            "latitude": 32.1333401,
+            "longitude": 34.9014664
+        },
+        "rating": 3.6,
+        "userRatingCount": 373,
+        "displayName": {
+            "text": "Aroma Espresso Bar \u05d0\u05e8\u05d5\u05de\u05d4 \u05d0\u05e1\u05e4\u05e8\u05e1\u05d5 \u05d1\u05e8",
+            "languageCode": "en"
+        },
+        "distance_to_center": 462.1702557677314
+    },
+    {
+        "location": {
+            "latitude": 32.1303856,
+            "longitude": 34.8949535
+        },
+        "rating": 4.4,
+        "userRatingCount": 376,
+        "displayName": {
+            "text": "\u05d7\u05d5\u05de\u05d5\u05e1 \u05d0\u05dc\u05d9\u05d4\u05d5 \u05d4\u05d5\u05d3 \u05d4\u05e9\u05e8\u05d5\u05df",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 377.7461011743993
+    },
+    {
+        "location": {
+            "latitude": 32.1323995,
+            "longitude": 34.8983805
+        },
+        "rating": 4.3,
+        "userRatingCount": 436,
+        "displayName": {
+            "text": "\u05d4\u05de\u05d9\u05e6\u05dc\u05d4 \u05de\u05e1\u05e2\u05d3\u05d4 \u05e9\u05d5\u05d5\u05d0\u05e8\u05de\u05d4 \u05d5\u05d1\u05e9\u05e8\u05d9\u05dd \u05e2\u05dc \u05d4\u05d0\u05e9",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 209.79286264914495
+    },
+    {
+        "location": {
+            "latitude": 32.1313257,
+            "longitude": 34.893541
+        },
+        "rating": 4.3,
+        "userRatingCount": 9,
+        "displayName": {
+            "text": "\u05d0\u05e8\u05e7\u05e4\u05d4",
+            "languageCode": "en"
+        },
+        "distance_to_center": 373.5023998467439
+    },
+    {
+        "location": {
+            "latitude": 32.1333401,
+            "longitude": 34.9014664
+        },
+        "rating": 4,
+        "userRatingCount": 30,
+        "displayName": {
+            "text": "\u05e9\u05d2\u05d1 \u05d0\u05e7\u05e1\u05e4\u05e8\u05e1 \u05d4\u05d5\u05d3 \u05d4\u05e9\u05e8\u05d5\u05df",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 462.1702557677314
+    },
+    {
+        "location": {
+            "latitude": 32.1331391,
+            "longitude": 34.9014321
+        },
+        "rating": 2.5,
+        "userRatingCount": 90,
+        "displayName": {
+            "text": "\u05d1\u05d5\u05e8\u05d2\u05e8\u05d0\u05e0\u05e5\u05f3",
+            "languageCode": "en"
+        },
+        "distance_to_center": 460.3060699647353
+    },
+    {
+        "location": {
+            "latitude": 32.132048399999995,
+            "longitude": 34.8984576
+        },
+        "rating": 4.5,
+        "userRatingCount": 34,
+        "displayName": {
+            "text": "\u05de\u05d6\u05e0\u05d5\u05df \u05d8\u05d9\u05d9\u05dd \u05d0\u05d0\u05d5\u05d8",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 239.96494726616623
+    },
+    {
+        "location": {
+            "latitude": 32.1303856,
+            "longitude": 34.8949535
+        },
+        "rating": 5,
+        "userRatingCount": 1,
+        "displayName": {
+            "text": "\u05dc\u05dc\u05d0 \u05e1\u05d5\u05db\u05e8- \u05d4\u05d7\u05e0\u05d5\u05ea \u05d4\u05e8\u05d0\u05e9\u05d5\u05e0\u05d4 \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc \u05dc\u05de\u05d5\u05e6\u05e8\u05d9\u05dd \u05dc\u05dc\u05d0 \u05e1\u05d5\u05db\u05e8",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 377.7461011743993
+    },
+    {
+        "location": {
+            "latitude": 32.133158400000006,
+            "longitude": 34.900951
+        },
+        "rating": 1,
+        "userRatingCount": 3,
+        "displayName": {
+            "text": "Nonna Chuna",
+            "languageCode": "en"
+        },
+        "distance_to_center": 414.9398821929995
+    },
+    {
+        "location": {
+            "latitude": 32.13291950000001,
+            "longitude": 34.9009169
+        },
+        "rating": 3.5,
+        "userRatingCount": 2,
+        "displayName": {
+            "text": "Burger Ranch",
+            "languageCode": "en"
+        },
+        "distance_to_center": 414.9818554556406
+    },
+    {
+        "location": {
+            "latitude": 32.1333401,
+            "longitude": 34.9014664
+        },
+        "rating": 1,
+        "userRatingCount": 3,
+        "displayName": {
+            "text": "\u05e0\u05d5\u05e0\u05d4 \u05e6'\u05d5\u05e0\u05d4",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 462.1702557677314
+    }
+]

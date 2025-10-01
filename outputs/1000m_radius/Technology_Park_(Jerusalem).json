@@ -1,0 +1,262 @@
+[
+    {
+        "location": {
+            "latitude": 31.7498445,
+            "longitude": 35.186011799999996
+        },
+        "rating": 4.4,
+        "userRatingCount": 5062,
+        "displayName": {
+            "text": "Tamara Cafe",
+            "languageCode": "en"
+        },
+        "distance_to_center": 62.96257983250078
+    },
+    {
+        "location": {
+            "latitude": 31.753718,
+            "longitude": 35.1850922
+        },
+        "rating": 4,
+        "userRatingCount": 1075,
+        "displayName": {
+            "text": "La story",
+            "languageCode": "en"
+        },
+        "distance_to_center": 498.8678260322888
+    },
+    {
+        "location": {
+            "latitude": 31.752863,
+            "longitude": 35.1814789
+        },
+        "rating": 4.3,
+        "userRatingCount": 1361,
+        "displayName": {
+            "text": "Avihail Cafe",
+            "languageCode": "en"
+        },
+        "distance_to_center": 604.9943802676038
+    },
+    {
+        "location": {
+            "latitude": 31.751177499999997,
+            "longitude": 35.187259999999995
+        },
+        "rating": 3.3,
+        "userRatingCount": 633,
+        "displayName": {
+            "text": "\u05de\u05e7\u05d3\u05d5\u05e0\u05dc\u05d3'\u05e1 - \u05e7\u05e0\u05d9\u05d5\u05df \u05de\u05dc\u05d7\u05d4 (\u05db\u05e9\u05e8)",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 217.69069816257598
+    },
+    {
+        "location": {
+            "latitude": 31.751826100000002,
+            "longitude": 35.18747260000001
+        },
+        "rating": 4,
+        "userRatingCount": 163,
+        "displayName": {
+            "text": "\u05d2'\u05d0\u05e1\u05d8 \u05de\u05d9\u05d8 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd - Just Meat",
+            "languageCode": "en"
+        },
+        "distance_to_center": 292.2284248234362
+    },
+    {
+        "location": {
+            "latitude": 31.751699700000003,
+            "longitude": 35.1874909
+        },
+        "rating": 3.8,
+        "userRatingCount": 310,
+        "displayName": {
+            "text": "Pizza Hut",
+            "languageCode": "en"
+        },
+        "distance_to_center": 279.76634347218356
+    },
+    {
+        "location": {
+            "latitude": 31.751534099999997,
+            "longitude": 35.1874402
+        },
+        "rating": 3.7,
+        "userRatingCount": 627,
+        "displayName": {
+            "text": "Oshi Oshi",
+            "languageCode": "en"
+        },
+        "distance_to_center": 260.8944070689469
+    },
+    {
+        "location": {
+            "latitude": 31.751626,
+            "longitude": 35.187296599999996
+        },
+        "rating": 3.1,
+        "userRatingCount": 80,
+        "displayName": {
+            "text": "River Bar & Sushi",
+            "languageCode": "en"
+        },
+        "distance_to_center": 265.6017967239136
+    },
+    {
+        "location": {
+            "latitude": 31.7512041,
+            "longitude": 35.187151899999996
+        },
+        "rating": 4.1,
+        "userRatingCount": 608,
+        "displayName": {
+            "text": "Burgers Bar",
+            "languageCode": "en"
+        },
+        "distance_to_center": 216.75480180534012
+    },
+    {
+        "location": {
+            "latitude": 31.7511433,
+            "longitude": 35.1873291
+        },
+        "rating": 4.3,
+        "userRatingCount": 219,
+        "displayName": {
+            "text": "New Deli",
+            "languageCode": "en"
+        },
+        "distance_to_center": 216.81646280480604
+    },
+    {
+        "location": {
+            "latitude": 31.751541000000003,
+            "longitude": 35.1871949
+        },
+        "rating": 2.2,
+        "userRatingCount": 72,
+        "displayName": {
+            "text": "\u05e6'\u05d5\u05e7\u05d4 \u05e1\u05e0\u05d9\u05e3 \u05de\u05dc\u05d7\u05d4 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 253.57812837120787
+    },
+    {
+        "location": {
+            "latitude": 31.751541000000003,
+            "longitude": 35.1871949
+        },
+        "rating": 4.1,
+        "userRatingCount": 68,
+        "displayName": {
+            "text": "\u05de\u05d5\u05e1\u05d0 \u05e4\u05d9\u05ea\u05d4 \u05e9\u05d5\u05e7",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 253.57812837120787
+    },
+    {
+        "location": {
+            "latitude": 31.756123499999998,
+            "longitude": 35.1831245
+        },
+        "rating": 3.7,
+        "userRatingCount": 35,
+        "displayName": {
+            "text": "\u05e4\u05d5\u05d9\u05d5 \u05dc\u05d5\u05e7\u05d5",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 812.2094221046742
+    },
+    {
+        "location": {
+            "latitude": 31.746651200000002,
+            "longitude": 35.1832509
+        },
+        "rating": 5,
+        "userRatingCount": 44,
+        "displayName": {
+            "text": "\u05d2\u05f3\u05d9\u05e0\u05d2\u05f3\u05d9 \u05d1\u05d5\u05e8\u05d2\u05e8 GINGI BURGERS",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 423.43719798229415
+    },
+    {
+        "location": {
+            "latitude": 31.751307,
+            "longitude": 35.1867332
+        },
+        "rating": 4.2,
+        "userRatingCount": 83,
+        "displayName": {
+            "text": "Il Fresco",
+            "languageCode": "en"
+        },
+        "distance_to_center": 218.04487897673917
+    },
+    {
+        "location": {
+            "latitude": 31.7512975,
+            "longitude": 35.187019
+        },
+        "rating": 2.8,
+        "userRatingCount": 26,
+        "displayName": {
+            "text": "Zalman's",
+            "languageCode": "en"
+        },
+        "distance_to_center": 222.8115812004377
+    },
+    {
+        "location": {
+            "latitude": 31.751541000000003,
+            "longitude": 35.1871949
+        },
+        "rating": 3.4,
+        "userRatingCount": 93,
+        "displayName": {
+            "text": "\u05d2'\u05d9\u05d9\u05e7\u05d5\u05d1\u05e1 \u05e7\u05e0\u05d9\u05d5\u05df \u05de\u05dc\u05d7\u05d4",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 253.57812837120787
+    },
+    {
+        "location": {
+            "latitude": 31.751541000000003,
+            "longitude": 35.1871949
+        },
+        "rating": 1.9,
+        "userRatingCount": 28,
+        "displayName": {
+            "text": "\u05d1\u05d5\u05e8\u05d2\u05e8 \u05e8\u05d0\u05e0\u05e5'",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 253.57812837120787
+    },
+    {
+        "location": {
+            "latitude": 31.751378999999996,
+            "longitude": 35.1868457
+        },
+        "rating": 3.8,
+        "userRatingCount": 60,
+        "displayName": {
+            "text": "Home Pizza",
+            "languageCode": "en"
+        },
+        "distance_to_center": 227.79913799596898
+    },
+    {
+        "location": {
+            "latitude": 31.753285499999997,
+            "longitude": 35.191323
+        },
+        "rating": 4.3,
+        "userRatingCount": 125,
+        "displayName": {
+            "text": "Buffet Tennis Center",
+            "languageCode": "en"
+        },
+        "distance_to_center": 639.529772705155
+    }
+]

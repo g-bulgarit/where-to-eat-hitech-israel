@@ -1,0 +1,80 @@
+[
+    {
+        "location": {
+            "latitude": 32.1180125,
+            "longitude": 34.8401256
+        },
+        "rating": 4.4,
+        "userRatingCount": 198,
+        "displayName": {
+            "text": "\u05e4\u05d9\u05e6\u05d4 \u05e9\u05de\u05e9",
+            "languageCode": "en"
+        },
+        "distance_to_center": 415.43732285987045
+    },
+    {
+        "location": {
+            "latitude": 32.118141099999995,
+            "longitude": 34.8394775
+        },
+        "rating": 3.5,
+        "userRatingCount": 42,
+        "displayName": {
+            "text": "\u05e9\u05d5\u05d5\u05d0\u05e8\u05de\u05d4 \u05d0\u05dc\u05d9\u05d4\u05d5 \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 467.7216547388022
+    },
+    {
+        "location": {
+            "latitude": 32.114624,
+            "longitude": 34.8428955
+        },
+        "rating": 3.3,
+        "userRatingCount": 61,
+        "displayName": {
+            "text": "\u05d9\u05d0\u05e9\u05e7\u05d4 - \u05e4\u05d0\u05e8\u05e7 \u05e2\u05ea\u05d9\u05d3\u05d9\u05dd",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 64.16601684766917
+    },
+    {
+        "location": {
+            "latitude": 32.1131312,
+            "longitude": 34.842823599999996
+        },
+        "rating": 4.2,
+        "userRatingCount": 265,
+        "displayName": {
+            "text": "\u05e9\u05e0\u05d9\u05e6\u05dc \u05e7\u05d5\u05de\u05e4\u05e0\u05d9 \u05e2\u05ea\u05d9\u05d3\u05d9\u05dd",
+            "languageCode": "en"
+        },
+        "distance_to_center": 230.09221981830532
+    },
+    {
+        "location": {
+            "latitude": 32.117789,
+            "longitude": 34.8401346
+        },
+        "rating": 4.3,
+        "userRatingCount": 149,
+        "displayName": {
+            "text": "\u05e4\u05d0\u05e0\u05d9 \u05d0\u05e7\u05e1\u05e4\u05e8\u05e1 - \u05d0\u05d5\u05db\u05dc \u05d1\u05d9\u05ea\u05d9",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 396.3877364029639
+    },
+    {
+        "location": {
+            "latitude": 32.114707599999996,
+            "longitude": 34.8429035
+        },
+        "rating": 3.8,
+        "userRatingCount": 6,
+        "displayName": {
+            "text": "Go Asian Canteen \u05e7\u05e0\u05d8\u05d9\u05e0\u05d4 \u05d0\u05e1\u05d9\u05d9\u05ea\u05d9\u05ea \u05e4\u05d0\u05e8\u05e7 \u05e2\u05ea\u05d9\u05d3\u05d9\u05dd",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 54.87308687085248
+    }
+]

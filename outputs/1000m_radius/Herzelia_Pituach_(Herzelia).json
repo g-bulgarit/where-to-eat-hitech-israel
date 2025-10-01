@@ -1,0 +1,262 @@
+[
+    {
+        "location": {
+            "latitude": 32.1621208,
+            "longitude": 34.8067741
+        },
+        "rating": 4.5,
+        "userRatingCount": 4488,
+        "displayName": {
+            "text": "MeatBar",
+            "languageCode": "en"
+        },
+        "distance_to_center": 396.99781448473107
+    },
+    {
+        "location": {
+            "latitude": 32.1621806,
+            "longitude": 34.8104973
+        },
+        "rating": 4.3,
+        "userRatingCount": 6242,
+        "displayName": {
+            "text": "Sebastian",
+            "languageCode": "en"
+        },
+        "distance_to_center": 330.03646665938334
+    },
+    {
+        "location": {
+            "latitude": 32.1625337,
+            "longitude": 34.814477499999995
+        },
+        "rating": 4.4,
+        "userRatingCount": 1618,
+        "displayName": {
+            "text": "NONO",
+            "languageCode": "en"
+        },
+        "distance_to_center": 592.4653387701256
+    },
+    {
+        "location": {
+            "latitude": 32.162855199999996,
+            "longitude": 34.8148385
+        },
+        "rating": 4.6,
+        "userRatingCount": 2613,
+        "displayName": {
+            "text": "Sushi Room | \u05e1\u05d5\u05e9\u05d9 \u05e8\u05d5\u05dd",
+            "languageCode": "en"
+        },
+        "distance_to_center": 641.1793411378713
+    },
+    {
+        "location": {
+            "latitude": 32.161887,
+            "longitude": 34.809796399999996
+        },
+        "rating": 4.5,
+        "userRatingCount": 1809,
+        "displayName": {
+            "text": "Meat Bar Burger",
+            "languageCode": "en"
+        },
+        "distance_to_center": 283.8452715514902
+    },
+    {
+        "location": {
+            "latitude": 32.162482499999996,
+            "longitude": 34.80860020000001
+        },
+        "rating": 4.2,
+        "userRatingCount": 6634,
+        "displayName": {
+            "text": "Greco",
+            "languageCode": "en"
+        },
+        "distance_to_center": 356.8490302381506
+    },
+    {
+        "location": {
+            "latitude": 32.1646461,
+            "longitude": 34.8106651
+        },
+        "rating": 4.4,
+        "userRatingCount": 1643,
+        "displayName": {
+            "text": "Jem's Yam",
+            "languageCode": "en"
+        },
+        "distance_to_center": 600.2397059879906
+    },
+    {
+        "location": {
+            "latitude": 32.1663244,
+            "longitude": 34.8107226
+        },
+        "rating": 3.7,
+        "userRatingCount": 2084,
+        "displayName": {
+            "text": "Calata 15",
+            "languageCode": "en"
+        },
+        "distance_to_center": 785.1973974779394
+    },
+    {
+        "location": {
+            "latitude": 32.1603547,
+            "longitude": 34.807918
+        },
+        "rating": 4.1,
+        "userRatingCount": 3536,
+        "displayName": {
+            "text": "Giraffe",
+            "languageCode": "en"
+        },
+        "distance_to_center": 181.08900281947288
+    },
+    {
+        "location": {
+            "latitude": 32.1593914,
+            "longitude": 34.8095248
+        },
+        "rating": 4.4,
+        "userRatingCount": 3829,
+        "displayName": {
+            "text": "Zozobra",
+            "languageCode": "en"
+        },
+        "distance_to_center": 9.39385195754881
+    },
+    {
+        "location": {
+            "latitude": 32.1574707,
+            "longitude": 34.8100051
+        },
+        "rating": 3.8,
+        "userRatingCount": 5744,
+        "displayName": {
+            "text": "Original Pancake House",
+            "languageCode": "en"
+        },
+        "distance_to_center": 216.6118329438075
+    },
+    {
+        "location": {
+            "latitude": 32.1596131,
+            "longitude": 34.8095476
+        },
+        "rating": 4,
+        "userRatingCount": 1268,
+        "displayName": {
+            "text": "Arcaffe",
+            "languageCode": "en"
+        },
+        "distance_to_center": 30.57711651453655
+    },
+    {
+        "location": {
+            "latitude": 32.1595818,
+            "longitude": 34.8072708
+        },
+        "rating": 4.2,
+        "userRatingCount": 1046,
+        "displayName": {
+            "text": "Minato",
+            "languageCode": "en"
+        },
+        "distance_to_center": 205.45560336113667
+    },
+    {
+        "location": {
+            "latitude": 32.1661567,
+            "longitude": 34.8093605
+        },
+        "rating": 4.6,
+        "userRatingCount": 4507,
+        "displayName": {
+            "text": "La Vaca Loca",
+            "languageCode": "en"
+        },
+        "distance_to_center": 757.121969248335
+    },
+    {
+        "location": {
+            "latitude": 32.1635582,
+            "longitude": 34.815298
+        },
+        "rating": 4.5,
+        "userRatingCount": 1455,
+        "displayName": {
+            "text": "Shifra & Jamil",
+            "languageCode": "en"
+        },
+        "distance_to_center": 724.0067756981111
+    },
+    {
+        "location": {
+            "latitude": 32.161166099999996,
+            "longitude": 34.8088249
+        },
+        "rating": 4.4,
+        "userRatingCount": 1779,
+        "displayName": {
+            "text": "Lola Martin",
+            "languageCode": "en"
+        },
+        "distance_to_center": 209.56683990908317
+    },
+    {
+        "location": {
+            "latitude": 32.1669692,
+            "longitude": 34.8126983
+        },
+        "rating": 3.9,
+        "userRatingCount": 4505,
+        "displayName": {
+            "text": "Nafis \u05e0\u05d0\u05e4\u05d9\u05e1",
+            "languageCode": "en"
+        },
+        "distance_to_center": 901.6184865482486
+    },
+    {
+        "location": {
+            "latitude": 32.1665971,
+            "longitude": 34.8101991
+        },
+        "rating": 3.9,
+        "userRatingCount": 221,
+        "displayName": {
+            "text": "CasaTua",
+            "languageCode": "en"
+        },
+        "distance_to_center": 809.3286197218872
+    },
+    {
+        "location": {
+            "latitude": 32.156705599999995,
+            "longitude": 34.8052073
+        },
+        "rating": 3.6,
+        "userRatingCount": 139,
+        "displayName": {
+            "text": "\u05e7\u05d0\u05d5\u05e4\u05de\u05df \u05d5\u05db\u05d4\u05df",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 495.7121649768616
+    },
+    {
+        "location": {
+            "latitude": 32.1610316,
+            "longitude": 34.8061177
+        },
+        "rating": 3.9,
+        "userRatingCount": 2525,
+        "displayName": {
+            "text": "JAPANIKA HERZELIYA KOSHER | \u05d2\u05f3\u05e4\u05e0\u05d9\u05e7\u05d4 \u05d4\u05e8\u05e6\u05dc\u05d9\u05d4 \u05db\u05e9\u05e8",
+            "languageCode": "en"
+        },
+        "distance_to_center": 364.01742478544566
+    }
+]

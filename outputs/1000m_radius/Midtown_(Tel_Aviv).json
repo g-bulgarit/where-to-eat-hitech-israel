@@ -1,0 +1,262 @@
+[
+    {
+        "location": {
+            "latitude": 32.0705483,
+            "longitude": 34.7878816
+        },
+        "rating": 4.5,
+        "userRatingCount": 6980,
+        "displayName": {
+            "text": "claro;",
+            "languageCode": "en"
+        },
+        "distance_to_center": 923.5293627863589
+    },
+    {
+        "location": {
+            "latitude": 32.07819990000001,
+            "longitude": 34.7946769
+        },
+        "rating": 3.8,
+        "userRatingCount": 3013,
+        "displayName": {
+            "text": "Malka by Eyal Shani",
+            "languageCode": "en"
+        },
+        "distance_to_center": 143.79488420397175
+    },
+    {
+        "location": {
+            "latitude": 32.0745389,
+            "longitude": 34.7838011
+        },
+        "rating": 4,
+        "userRatingCount": 2624,
+        "displayName": {
+            "text": "Dubnov 8",
+            "languageCode": "en"
+        },
+        "distance_to_center": 974.4316865165277
+    },
+    {
+        "location": {
+            "latitude": 32.0710003,
+            "longitude": 34.788198099999995
+        },
+        "rating": 4.6,
+        "userRatingCount": 2369,
+        "displayName": {
+            "text": "Lager & Ale",
+            "languageCode": "en"
+        },
+        "distance_to_center": 865.2748296144529
+    },
+    {
+        "location": {
+            "latitude": 32.073679399999996,
+            "longitude": 34.795770399999995
+        },
+        "rating": 4.1,
+        "userRatingCount": 7596,
+        "displayName": {
+            "text": "Dixie",
+            "languageCode": "en"
+        },
+        "distance_to_center": 448.805542355126
+    },
+    {
+        "location": {
+            "latitude": 32.0710338,
+            "longitude": 34.7882859
+        },
+        "rating": 4.5,
+        "userRatingCount": 3780,
+        "displayName": {
+            "text": "\u200eWhiskey Bar & Museum | \u05d5\u05d5\u05d9\u05e1\u05e7\u05d9 \u05d1\u05e8 \u05de\u05d5\u05d6\u05d9\u05d0\u05d5\u05df",
+            "languageCode": "en"
+        },
+        "distance_to_center": 857.3865267225326
+    },
+    {
+        "location": {
+            "latitude": 32.0707062,
+            "longitude": 34.7865056
+        },
+        "rating": 4.3,
+        "userRatingCount": 5334,
+        "displayName": {
+            "text": "\u05de\u05d9\u05e0\u05d4 \u05d8\u05d5\u05de\u05d9\u05d9 \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1",
+            "languageCode": "en"
+        },
+        "distance_to_center": 992.0301843866141
+    },
+    {
+        "location": {
+            "latitude": 32.077375499999995,
+            "longitude": 34.7889447
+        },
+        "rating": 4.1,
+        "userRatingCount": 3120,
+        "displayName": {
+            "text": "Meatos",
+            "languageCode": "en"
+        },
+        "distance_to_center": 440.6262378873205
+    },
+    {
+        "location": {
+            "latitude": 32.0700137,
+            "longitude": 34.7940951
+        },
+        "rating": 4.3,
+        "userRatingCount": 3786,
+        "displayName": {
+            "text": "Yaffo Tel Aviv",
+            "languageCode": "en"
+        },
+        "distance_to_center": 809.4253755643008
+    },
+    {
+        "location": {
+            "latitude": 32.0828935,
+            "longitude": 34.791633
+        },
+        "rating": 4.3,
+        "userRatingCount": 1829,
+        "displayName": {
+            "text": "Henrietta Caf\u00e9",
+            "languageCode": "en"
+        },
+        "distance_to_center": 652.9393112682845
+    },
+    {
+        "location": {
+            "latitude": 32.072921799999996,
+            "longitude": 34.7872692
+        },
+        "rating": 4.3,
+        "userRatingCount": 3208,
+        "displayName": {
+            "text": "Beer Garden",
+            "languageCode": "en"
+        },
+        "distance_to_center": 770.0089583045407
+    },
+    {
+        "location": {
+            "latitude": 32.0687862,
+            "longitude": 34.7936304
+        },
+        "rating": 4.3,
+        "userRatingCount": 2022,
+        "displayName": {
+            "text": "Goomba",
+            "languageCode": "en"
+        },
+        "distance_to_center": 944.80086505595
+    },
+    {
+        "location": {
+            "latitude": 32.0764626,
+            "longitude": 34.7856881
+        },
+        "rating": 4.2,
+        "userRatingCount": 2960,
+        "displayName": {
+            "text": "Olivery",
+            "languageCode": "en"
+        },
+        "distance_to_center": 753.0903690997808
+    },
+    {
+        "location": {
+            "latitude": 32.0719761,
+            "longitude": 34.7888707
+        },
+        "rating": 4.1,
+        "userRatingCount": 1785,
+        "displayName": {
+            "text": "a",
+            "languageCode": "en"
+        },
+        "distance_to_center": 740.2568368577321
+    },
+    {
+        "location": {
+            "latitude": 32.071399299999996,
+            "longitude": 34.786575899999995
+        },
+        "rating": 4.1,
+        "userRatingCount": 3019,
+        "displayName": {
+            "text": "Benedict",
+            "languageCode": "en"
+        },
+        "distance_to_center": 931.8864774238637
+    },
+    {
+        "location": {
+            "latitude": 32.073141899999996,
+            "longitude": 34.78693820000001
+        },
+        "rating": 4.4,
+        "userRatingCount": 518,
+        "displayName": {
+            "text": "Biga",
+            "languageCode": "en"
+        },
+        "distance_to_center": 779.8236157940374
+    },
+    {
+        "location": {
+            "latitude": 32.0785473,
+            "longitude": 34.7873849
+        },
+        "rating": 4.2,
+        "userRatingCount": 1993,
+        "displayName": {
+            "text": "Toto",
+            "languageCode": "en"
+        },
+        "distance_to_center": 604.4712475695411
+    },
+    {
+        "location": {
+            "latitude": 32.0775668,
+            "longitude": 34.789139299999995
+        },
+        "rating": 3.9,
+        "userRatingCount": 1536,
+        "displayName": {
+            "text": "Uno Italiano Gungo",
+            "languageCode": "en"
+        },
+        "distance_to_center": 423.3848299657156
+    },
+    {
+        "location": {
+            "latitude": 32.073032999999995,
+            "longitude": 34.7857047
+        },
+        "rating": 3.4,
+        "userRatingCount": 1355,
+        "displayName": {
+            "text": "McDonald's",
+            "languageCode": "en"
+        },
+        "distance_to_center": 882.8977068478571
+    },
+    {
+        "location": {
+            "latitude": 32.070449599999996,
+            "longitude": 34.7870971
+        },
+        "rating": 4.4,
+        "userRatingCount": 2006,
+        "displayName": {
+            "text": "\u05e7\u05d5\u05de\u05e8\u05d0\u05df Qumran TLV",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 977.2359342464616
+    }
+]

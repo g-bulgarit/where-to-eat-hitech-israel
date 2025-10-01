@@ -1,0 +1,132 @@
+[
+    {
+        "location": {
+            "latitude": 31.9869703,
+            "longitude": 34.9111665
+        },
+        "rating": 4.3,
+        "userRatingCount": 2719,
+        "displayName": {
+            "text": "Truman & Co.",
+            "languageCode": "en"
+        },
+        "distance_to_center": 218.41428029474497
+    },
+    {
+        "location": {
+            "latitude": 31.9859905,
+            "longitude": 34.9126414
+        },
+        "rating": 4.5,
+        "userRatingCount": 1709,
+        "displayName": {
+            "text": "Gaston Steakhouse",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 249.7068134820336
+    },
+    {
+        "location": {
+            "latitude": 31.9877334,
+            "longitude": 34.910213
+        },
+        "rating": 3.7,
+        "userRatingCount": 2325,
+        "displayName": {
+            "text": "Air Coffee \u05d0\u05d9\u05d9\u05e8 \u05e7\u05e4\u05d4",
+            "languageCode": "en"
+        },
+        "distance_to_center": 264.1442094436156
+    },
+    {
+        "location": {
+            "latitude": 31.9860627,
+            "longitude": 34.913185899999995
+        },
+        "rating": 3.8,
+        "userRatingCount": 1979,
+        "displayName": {
+            "text": "Landwer Coffee",
+            "languageCode": "en"
+        },
+        "distance_to_center": 240.96283408285564
+    },
+    {
+        "location": {
+            "latitude": 31.985827399999998,
+            "longitude": 34.9130551
+        },
+        "rating": 4.3,
+        "userRatingCount": 2537,
+        "displayName": {
+            "text": "Pizza Porto \u05e4\u05d9\u05e6\u05d4 \u05e4\u05d5\u05e8\u05d8\u05d5",
+            "languageCode": "en"
+        },
+        "distance_to_center": 266.31823686171487
+    },
+    {
+        "location": {
+            "latitude": 31.9862099,
+            "longitude": 34.912834
+        },
+        "rating": 4.1,
+        "userRatingCount": 212,
+        "displayName": {
+            "text": "Le-House of asia",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 223.83506209933714
+    },
+    {
+        "location": {
+            "latitude": 31.987091999999997,
+            "longitude": 34.914741899999996
+        },
+        "rating": 3.8,
+        "userRatingCount": 890,
+        "displayName": {
+            "text": "\u05de\u05d0\u05e4\u05d4 \u05e0\u05d0\u05de\u05df - \u05d0\u05d9\u05d9\u05e8\u05e4\u05d5\u05e8\u05d8 \u05e1\u05d9\u05d8\u05d9",
+            "languageCode": "en"
+        },
+        "distance_to_center": 210.44654384182112
+    },
+    {
+        "location": {
+            "latitude": 31.9866864,
+            "longitude": 34.9145853
+        },
+        "rating": 4.4,
+        "userRatingCount": 492,
+        "displayName": {
+            "text": "BaHadunes Hummus",
+            "languageCode": "en"
+        },
+        "distance_to_center": 229.9289333761599
+    },
+    {
+        "location": {
+            "latitude": 31.985721899999994,
+            "longitude": 34.9141215
+        },
+        "rating": 4.8,
+        "userRatingCount": 62,
+        "displayName": {
+            "text": "\u05e4\u05e1\u05d8\u05dc\u05d4",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 299.0309933220444
+    },
+    {
+        "location": {
+            "latitude": 31.987249000000002,
+            "longitude": 34.914851
+        },
+        "rating": 2.9,
+        "userRatingCount": 43,
+        "displayName": {
+            "text": "\u05d4\u05e7\u05d1\u05d1 \u05e9\u05dc \u05d0\u05de\u05d0",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 209.28346390830893
+    }
+]

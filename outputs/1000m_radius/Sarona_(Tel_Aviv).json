@@ -1,0 +1,262 @@
+[
+    {
+        "location": {
+            "latitude": 32.0745789,
+            "longitude": 34.7821292
+        },
+        "rating": 4.5,
+        "userRatingCount": 5784,
+        "displayName": {
+            "text": "\u05d4\u05d0\u05d7\u05d9\u05dd",
+            "languageCode": "en"
+        },
+        "distance_to_center": 632.2092592253229
+    },
+    {
+        "location": {
+            "latitude": 32.0738098,
+            "longitude": 34.7819443
+        },
+        "rating": 4.4,
+        "userRatingCount": 2822,
+        "displayName": {
+            "text": "GDB",
+            "languageCode": "en"
+        },
+        "distance_to_center": 593.922440828708
+    },
+    {
+        "location": {
+            "latitude": 32.0656421,
+            "longitude": 34.778573699999995
+        },
+        "rating": 4.5,
+        "userRatingCount": 4052,
+        "displayName": {
+            "text": "Cicchetti",
+            "languageCode": "en"
+        },
+        "distance_to_center": 997.0663833439435
+    },
+    {
+        "location": {
+            "latitude": 32.066523,
+            "longitude": 34.794124599999996
+        },
+        "rating": 4.4,
+        "userRatingCount": 5835,
+        "displayName": {
+            "text": "Cafe Italia",
+            "languageCode": "en"
+        },
+        "distance_to_center": 812.8784786532076
+    },
+    {
+        "location": {
+            "latitude": 32.070248299999996,
+            "longitude": 34.784202799999996
+        },
+        "rating": 4.5,
+        "userRatingCount": 2140,
+        "displayName": {
+            "text": "Schnitt",
+            "languageCode": "en"
+        },
+        "distance_to_center": 288.38492384990553
+    },
+    {
+        "location": {
+            "latitude": 32.076062799999995,
+            "longitude": 34.7817682
+        },
+        "rating": 4.5,
+        "userRatingCount": 6797,
+        "displayName": {
+            "text": "Vitrina",
+            "languageCode": "en"
+        },
+        "distance_to_center": 773.258191200799
+    },
+    {
+        "location": {
+            "latitude": 32.0705483,
+            "longitude": 34.7878816
+        },
+        "rating": 4.5,
+        "userRatingCount": 6980,
+        "displayName": {
+            "text": "claro;",
+            "languageCode": "en"
+        },
+        "distance_to_center": 74.07783925437661
+    },
+    {
+        "location": {
+            "latitude": 32.0702542,
+            "longitude": 34.7844629
+        },
+        "rating": 4.5,
+        "userRatingCount": 4828,
+        "displayName": {
+            "text": "Porter & Sons",
+            "languageCode": "en"
+        },
+        "distance_to_center": 264.4028608990239
+    },
+    {
+        "location": {
+            "latitude": 32.0745389,
+            "longitude": 34.7838011
+        },
+        "rating": 4,
+        "userRatingCount": 2624,
+        "displayName": {
+            "text": "Dubnov 8",
+            "languageCode": "en"
+        },
+        "distance_to_center": 520.2485317718711
+    },
+    {
+        "location": {
+            "latitude": 32.066919999999996,
+            "longitude": 34.7820438
+        },
+        "rating": 4.3,
+        "userRatingCount": 3659,
+        "displayName": {
+            "text": "Kab Kem",
+            "languageCode": "en"
+        },
+        "distance_to_center": 652.2091907780059
+    },
+    {
+        "location": {
+            "latitude": 32.0710003,
+            "longitude": 34.788198099999995
+        },
+        "rating": 4.6,
+        "userRatingCount": 2369,
+        "displayName": {
+            "text": "Lager & Ale",
+            "languageCode": "en"
+        },
+        "distance_to_center": 97.78524365271583
+    },
+    {
+        "location": {
+            "latitude": 32.0758881,
+            "longitude": 34.7814293
+        },
+        "rating": 4.6,
+        "userRatingCount": 1370,
+        "displayName": {
+            "text": "Benz Brothers",
+            "languageCode": "en"
+        },
+        "distance_to_center": 780.6145135836265
+    },
+    {
+        "location": {
+            "latitude": 32.0670307,
+            "longitude": 34.7818233
+        },
+        "rating": 4.3,
+        "userRatingCount": 2541,
+        "displayName": {
+            "text": "Tachtit Caf\u00e9",
+            "languageCode": "en"
+        },
+        "distance_to_center": 659.8060505815849
+    },
+    {
+        "location": {
+            "latitude": 32.0710338,
+            "longitude": 34.7882859
+        },
+        "rating": 4.5,
+        "userRatingCount": 3780,
+        "displayName": {
+            "text": "\u200eWhiskey Bar & Museum | \u05d5\u05d5\u05d9\u05e1\u05e7\u05d9 \u05d1\u05e8 \u05de\u05d5\u05d6\u05d9\u05d0\u05d5\u05df",
+            "languageCode": "en"
+        },
+        "distance_to_center": 106.62171114861346
+    },
+    {
+        "location": {
+            "latitude": 32.073679399999996,
+            "longitude": 34.795770399999995
+        },
+        "rating": 4.1,
+        "userRatingCount": 7596,
+        "displayName": {
+            "text": "Dixie",
+            "languageCode": "en"
+        },
+        "distance_to_center": 869.8085010173149
+    },
+    {
+        "location": {
+            "latitude": 32.0707062,
+            "longitude": 34.7865056
+        },
+        "rating": 4.3,
+        "userRatingCount": 5334,
+        "displayName": {
+            "text": "\u05de\u05d9\u05e0\u05d4 \u05d8\u05d5\u05de\u05d9\u05d9 \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1",
+            "languageCode": "en"
+        },
+        "distance_to_center": 65.25871991395375
+    },
+    {
+        "location": {
+            "latitude": 32.0738343,
+            "longitude": 34.7791268
+        },
+        "rating": 4.1,
+        "userRatingCount": 272,
+        "displayName": {
+            "text": "Helena",
+            "languageCode": "en"
+        },
+        "distance_to_center": 829.2237349683062
+    },
+    {
+        "location": {
+            "latitude": 32.070110299999996,
+            "longitude": 34.784919699999996
+        },
+        "rating": 4.2,
+        "userRatingCount": 2896,
+        "displayName": {
+            "text": "Oban Koban",
+            "languageCode": "en"
+        },
+        "distance_to_center": 228.15000456753722
+    },
+    {
+        "location": {
+            "latitude": 32.071286199999996,
+            "longitude": 34.7852244
+        },
+        "rating": 4.2,
+        "userRatingCount": 3105,
+        "displayName": {
+            "text": "Giraffe",
+            "languageCode": "en"
+        },
+        "distance_to_center": 190.7528870608542
+    },
+    {
+        "location": {
+            "latitude": 32.077375499999995,
+            "longitude": 34.7889447
+        },
+        "rating": 4.1,
+        "userRatingCount": 3120,
+        "displayName": {
+            "text": "Meatos",
+            "languageCode": "en"
+        },
+        "distance_to_center": 745.945627636667
+    }
+]

@@ -1,0 +1,184 @@
+[
+    {
+        "location": {
+            "latitude": 32.0257636,
+            "longitude": 34.901337100000006
+        },
+        "rating": 4.4,
+        "userRatingCount": 424,
+        "displayName": {
+            "text": "\u05de\u05d9\u05e0\u05d4 \u05d8\u05d5\u05de\u05d9\u05d9 - Minna Tomei \u05d9\u05d4\u05d5\u05d3",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 434.6054356811294
+    },
+    {
+        "location": {
+            "latitude": 32.027324899999996,
+            "longitude": 34.8947856
+        },
+        "rating": 4.2,
+        "userRatingCount": 3752,
+        "displayName": {
+            "text": "Tatti Loft",
+            "languageCode": "en"
+        },
+        "distance_to_center": 252.1565531126926
+    },
+    {
+        "location": {
+            "latitude": 32.025909399999996,
+            "longitude": 34.901256499999995
+        },
+        "rating": 4.5,
+        "userRatingCount": 1855,
+        "displayName": {
+            "text": "Fat Vinny Yehud",
+            "languageCode": "en"
+        },
+        "distance_to_center": 419.7979096795474
+    },
+    {
+        "location": {
+            "latitude": 32.0259923,
+            "longitude": 34.8980384
+        },
+        "rating": 4.2,
+        "userRatingCount": 516,
+        "displayName": {
+            "text": "Benedict Yehud - \u05d1\u05e0\u05d3\u05d9\u05e7\u05d8 \u05d9\u05d4\u05d5\u05d3",
+            "languageCode": "en"
+        },
+        "distance_to_center": 208.92343555867836
+    },
+    {
+        "location": {
+            "latitude": 32.0288363,
+            "longitude": 34.897293399999995
+        },
+        "rating": 4.1,
+        "userRatingCount": 1374,
+        "displayName": {
+            "text": "\u05de\u05e1\u05e2\u05d3\u05ea \u05e0\u05d0\u05d5\u05de\u05d9 - Naomi Asian",
+            "languageCode": "en"
+        },
+        "distance_to_center": 116.966118464632
+    },
+    {
+        "location": {
+            "latitude": 32.027037199999995,
+            "longitude": 34.896553
+        },
+        "rating": 4,
+        "userRatingCount": 1106,
+        "displayName": {
+            "text": "\u05d3\u05d5\u05e0\u05e8/\u05e9\u05d5\u05d5\u05d0\u05e8\u05de\u05d4 \u05d8\u05d5\u05e8\u05e7\u05d9\u05ea \u05d5\u05e2\u05dc \u05d4\u05d0\u05e9",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 115.81399515360307
+    },
+    {
+        "location": {
+            "latitude": 32.0284355,
+            "longitude": 34.8988456
+        },
+        "rating": 4,
+        "userRatingCount": 1704,
+        "displayName": {
+            "text": "Zinc",
+            "languageCode": "en"
+        },
+        "distance_to_center": 154.16856881914438
+    },
+    {
+        "location": {
+            "latitude": 32.0262441,
+            "longitude": 34.9010009
+        },
+        "rating": 4.8,
+        "userRatingCount": 1021,
+        "displayName": {
+            "text": "\u05d9\u05d5\u05de\u05e0\u05d2\u05e1 Humongous - \u05d9\u05d4\u05d5\u05d3",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 380.8507565799094
+    },
+    {
+        "location": {
+            "latitude": 32.0289821,
+            "longitude": 34.8992066
+        },
+        "rating": 4,
+        "userRatingCount": 115,
+        "displayName": {
+            "text": "\u05e9\u05d5\u05d5\u05d0\u05e8\u05de\u05d4 \u05de\u05d9\u05e7\u05e1",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 216.0419976117089
+    },
+    {
+        "location": {
+            "latitude": 32.0256343,
+            "longitude": 34.901371
+        },
+        "rating": 2.6,
+        "userRatingCount": 217,
+        "displayName": {
+            "text": "McDonalds",
+            "languageCode": "en"
+        },
+        "distance_to_center": 444.93696825248725
+    },
+    {
+        "location": {
+            "latitude": 32.0265724,
+            "longitude": 34.8986302
+        },
+        "rating": 4,
+        "userRatingCount": 28,
+        "displayName": {
+            "text": "\u05d4\u05e4\u05d5\u05e0\u05d3\u05e7",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 178.39031107006264
+    },
+    {
+        "location": {
+            "latitude": 32.027979099999996,
+            "longitude": 34.8947463
+        },
+        "rating": 4,
+        "userRatingCount": 15,
+        "displayName": {
+            "text": "\u05e1\u05d5\u05de\u05da \u05d1\u05e9\u05e8\u05d9\u05dd",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 251.3907647979492
+    },
+    {
+        "location": {
+            "latitude": 32.027742599999996,
+            "longitude": 34.8969081
+        },
+        "rating": 4.4,
+        "userRatingCount": 78,
+        "displayName": {
+            "text": "\u05d7\u05d5\u05de\u05d5\u05e1 \u05d9\u05d4\u05d5\u05d3, \u05db\u05e9\u05e8 \u05dc\u05de\u05d4\u05d3\u05e8\u05d9\u05df",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 46.77477012199654
+    },
+    {
+        "location": {
+            "latitude": 32.030392,
+            "longitude": 34.8972064
+        },
+        "rating": 4.7,
+        "userRatingCount": 60,
+        "displayName": {
+            "text": "\u05d1\u05d5\u05e8\u05e7\u05e1 \u05ea\u05e2\u05e0\u05d5\u05d2",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 290.28657727625887
+    }
+]

@@ -1,0 +1,262 @@
+[
+    {
+        "location": {
+            "latitude": 32.0860822,
+            "longitude": 34.8030986
+        },
+        "rating": 2.5,
+        "userRatingCount": 545,
+        "displayName": {
+            "text": "Meat Night - \u05de\u05d9\u05d8 \u05e0\u05d9\u05d9\u05d8",
+            "languageCode": "en"
+        },
+        "distance_to_center": 339.46418504855416
+    },
+    {
+        "location": {
+            "latitude": 32.0845909,
+            "longitude": 34.802982899999996
+        },
+        "rating": 3.2,
+        "userRatingCount": 657,
+        "displayName": {
+            "text": "McDonald's",
+            "languageCode": "en"
+        },
+        "distance_to_center": 226.307309583544
+    },
+    {
+        "location": {
+            "latitude": 32.082641599999995,
+            "longitude": 34.801673799999996
+        },
+        "rating": 3.7,
+        "userRatingCount": 1217,
+        "displayName": {
+            "text": "Japanika",
+            "languageCode": "en"
+        },
+        "distance_to_center": 145.87775286425082
+    },
+    {
+        "location": {
+            "latitude": 32.0857218,
+            "longitude": 34.8050412
+        },
+        "rating": 4.1,
+        "userRatingCount": 1282,
+        "displayName": {
+            "text": "Sheldon",
+            "languageCode": "en"
+        },
+        "distance_to_center": 456.6071170575094
+    },
+    {
+        "location": {
+            "latitude": 32.0837559,
+            "longitude": 34.8038516
+        },
+        "rating": 3.8,
+        "userRatingCount": 1171,
+        "displayName": {
+            "text": "\u05e8\u05d9\u05d1\u05e8 \u05e1\u05d5\u05e9\u05d9 \u05e8\u05de\u05ea \u05d2\u05df River",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 286.8930956654662
+    },
+    {
+        "location": {
+            "latitude": 32.084557,
+            "longitude": 34.802937199999995
+        },
+        "rating": 4,
+        "userRatingCount": 260,
+        "displayName": {
+            "text": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d3\u05d9\u05d9\u05e0\u05e8 \u05d9\u05e9\u05e8\u05d0\u05dc\u05d9 \u05d1\u05e8\u05de\u05ea \u05d2\u05df \u05e8\u05e0\u05d5 \u05d0\u05de\u05d9\u05dc\u05d9\u05d4 Reno Emilia Italian restaurant",
+            "languageCode": "fr"
+        },
+        "distance_to_center": 220.80905160920068
+    },
+    {
+        "location": {
+            "latitude": 32.0835469,
+            "longitude": 34.800542199999995
+        },
+        "rating": 4.2,
+        "userRatingCount": 565,
+        "displayName": {
+            "text": "Hummus Eliyahu",
+            "languageCode": "en"
+        },
+        "distance_to_center": 32.36100996031133
+    },
+    {
+        "location": {
+            "latitude": 32.0845912,
+            "longitude": 34.8030252
+        },
+        "rating": 4.4,
+        "userRatingCount": 79,
+        "displayName": {
+            "text": "Vachach - Japanese restaurant \u05db\u05e9\u05e8 kosher",
+            "languageCode": "en"
+        },
+        "distance_to_center": 229.94045855514972
+    },
+    {
+        "location": {
+            "latitude": 32.0867804,
+            "longitude": 34.8031489
+        },
+        "rating": 4.5,
+        "userRatingCount": 777,
+        "displayName": {
+            "text": "Mensa, homemade food",
+            "languageCode": "en"
+        },
+        "distance_to_center": 405.06034337125266
+    },
+    {
+        "location": {
+            "latitude": 32.0874046,
+            "longitude": 34.8038028
+        },
+        "rating": 4.2,
+        "userRatingCount": 393,
+        "displayName": {
+            "text": "\u05e1\u05d0\u05d9 \u05e1\u05d5\u05e9\u05d9 \u05d1\u05e8 | \u05db\u05e9\u05e8",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 497.11840638748674
+    },
+    {
+        "location": {
+            "latitude": 32.0831497,
+            "longitude": 34.805605899999996
+        },
+        "rating": 3.3,
+        "userRatingCount": 456,
+        "displayName": {
+            "text": "Domino's Pizza",
+            "languageCode": "en"
+        },
+        "distance_to_center": 456.90826528456597
+    },
+    {
+        "location": {
+            "latitude": 32.086215900000006,
+            "longitude": 34.8008728
+        },
+        "rating": 4.2,
+        "userRatingCount": 362,
+        "displayName": {
+            "text": "\u05e8\u05d5\u05dc\u05e0\u05e8\u05d5\u05dc",
+            "languageCode": "en"
+        },
+        "distance_to_center": 276.945756843598
+    },
+    {
+        "location": {
+            "latitude": 32.082276,
+            "longitude": 34.8020689
+        },
+        "rating": 4.6,
+        "userRatingCount": 155,
+        "displayName": {
+            "text": "\u05de\u05e2\u05d9\u05d9\u05df \u05d4\u05d7\u05d5\u05de\u05d5\u05e1 - \u05d7\u05d5\u05de\u05d5\u05e1\u05d9\u05d4 \u05d1\u05e8\u05de\u05ea \u05d2\u05df",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 200.61691002501297
+    },
+    {
+        "location": {
+            "latitude": 32.0874945,
+            "longitude": 34.803564699999995
+        },
+        "rating": 4.2,
+        "userRatingCount": 235,
+        "displayName": {
+            "text": "Efendi",
+            "languageCode": "en"
+        },
+        "distance_to_center": 493.1975985462797
+    },
+    {
+        "location": {
+            "latitude": 32.087185999999996,
+            "longitude": 34.8037966
+        },
+        "rating": 3.9,
+        "userRatingCount": 120,
+        "displayName": {
+            "text": "Sesame Bar Health",
+            "languageCode": "en"
+        },
+        "distance_to_center": 476.94192235809174
+    },
+    {
+        "location": {
+            "latitude": 32.0818598,
+            "longitude": 34.805084
+        },
+        "rating": 4.7,
+        "userRatingCount": 514,
+        "displayName": {
+            "text": "\u05e4\u05dc\u05d0\u05e4\u05dc \u05d9\u05e7\u05d9'\u05e1",
+            "languageCode": "en"
+        },
+        "distance_to_center": 453.63400092469266
+    },
+    {
+        "location": {
+            "latitude": 32.085949899999996,
+            "longitude": 34.8007293
+        },
+        "rating": 3.8,
+        "userRatingCount": 258,
+        "displayName": {
+            "text": "Grill Night",
+            "languageCode": "en"
+        },
+        "distance_to_center": 247.3885681025541
+    },
+    {
+        "location": {
+            "latitude": 32.0839786,
+            "longitude": 34.8037183
+        },
+        "rating": 4.1,
+        "userRatingCount": 271,
+        "displayName": {
+            "text": "Chicken Station",
+            "languageCode": "en"
+        },
+        "distance_to_center": 275.71199363223275
+    },
+    {
+        "location": {
+            "latitude": 32.0835776,
+            "longitude": 34.8005059
+        },
+        "rating": 3.4,
+        "userRatingCount": 107,
+        "displayName": {
+            "text": "Chawarma",
+            "languageCode": "en"
+        },
+        "distance_to_center": 33.24647915496287
+    },
+    {
+        "location": {
+            "latitude": 32.0861136,
+            "longitude": 34.8027375
+        },
+        "rating": 4.3,
+        "userRatingCount": 472,
+        "displayName": {
+            "text": "Jonathan hummus",
+            "languageCode": "en"
+        },
+        "distance_to_center": 321.771242387734
+    }
+]

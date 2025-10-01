@@ -1,0 +1,236 @@
+[
+    {
+        "location": {
+            "latitude": 32.0081931,
+            "longitude": 34.7993288
+        },
+        "rating": 3.7,
+        "userRatingCount": 1498,
+        "displayName": {
+            "text": "Landwer",
+            "languageCode": "en"
+        },
+        "distance_to_center": 128.8472723928103
+    },
+    {
+        "location": {
+            "latitude": 32.0080032,
+            "longitude": 34.8002166
+        },
+        "rating": 4.3,
+        "userRatingCount": 1746,
+        "displayName": {
+            "text": "BBB - Burgus Burger Bar",
+            "languageCode": "en"
+        },
+        "distance_to_center": 42.530698505478625
+    },
+    {
+        "location": {
+            "latitude": 32.010713599999995,
+            "longitude": 34.7968221
+        },
+        "rating": 4.6,
+        "userRatingCount": 260,
+        "displayName": {
+            "text": "\u05e8\u05de\u05d1\u05dc\u05d4 - Rambla",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 475.8861215641655
+    },
+    {
+        "location": {
+            "latitude": 32.0076,
+            "longitude": 34.799200000000006
+        },
+        "rating": 3.3,
+        "userRatingCount": 767,
+        "displayName": {
+            "text": "McDonald's",
+            "languageCode": "en"
+        },
+        "distance_to_center": 143.1538257722633
+    },
+    {
+        "location": {
+            "latitude": 32.004076399999995,
+            "longitude": 34.8021733
+        },
+        "rating": 4.7,
+        "userRatingCount": 36,
+        "displayName": {
+            "text": "\u05e7\u05d5\u05e4\u05d9 \u05d1\u05e8\u05d9\u05d9\u05e7 - 7g coffee break",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 453.47908051335077
+    },
+    {
+        "location": {
+            "latitude": 32.007118999999996,
+            "longitude": 34.799366299999996
+        },
+        "rating": 3.8,
+        "userRatingCount": 1910,
+        "displayName": {
+            "text": "River Noodles",
+            "languageCode": "en"
+        },
+        "distance_to_center": 152.85670621653264
+    },
+    {
+        "location": {
+            "latitude": 32.0078893,
+            "longitude": 34.800380499999996
+        },
+        "rating": 4.3,
+        "userRatingCount": 231,
+        "displayName": {
+            "text": "Pizza Central",
+            "languageCode": "en"
+        },
+        "distance_to_center": 27.19742306008502
+    },
+    {
+        "location": {
+            "latitude": 32.0105176,
+            "longitude": 34.7997684
+        },
+        "rating": 4.1,
+        "userRatingCount": 1000,
+        "displayName": {
+            "text": "\u05e7\u05dc\u05d1\u05d5\u05e0\u05d9 \u05d7\u05d5\u05dc\u05d5\u05df",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 298.73516122443846
+    },
+    {
+        "location": {
+            "latitude": 32.007177299999995,
+            "longitude": 34.800412699999995
+        },
+        "rating": 3,
+        "userRatingCount": 187,
+        "displayName": {
+            "text": "Agvania Pizza",
+            "languageCode": "en"
+        },
+        "distance_to_center": 88.42598500236885
+    },
+    {
+        "location": {
+            "latitude": 32.007612099999996,
+            "longitude": 34.8003204
+        },
+        "rating": 4.4,
+        "userRatingCount": 90,
+        "displayName": {
+            "text": "\u05de\u05ea\u05d7\u05dd \u05e2\u05d6\u05e8\u05d9\u05d0\u05dc\u05d9",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 48.93610878674673
+    },
+    {
+        "location": {
+            "latitude": 32.0078483,
+            "longitude": 34.8011751
+        },
+        "rating": 4,
+        "userRatingCount": 157,
+        "displayName": {
+            "text": "Shilo",
+            "languageCode": "en"
+        },
+        "distance_to_center": 49.612862139277105
+    },
+    {
+        "location": {
+            "latitude": 32.007054499999995,
+            "longitude": 34.7994505
+        },
+        "rating": 4.5,
+        "userRatingCount": 31,
+        "displayName": {
+            "text": "Salatas",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 151.17439690426338
+    },
+    {
+        "location": {
+            "latitude": 32.0086143,
+            "longitude": 34.800374399999995
+        },
+        "rating": 3.9,
+        "userRatingCount": 330,
+        "displayName": {
+            "text": "Puzzle Burger",
+            "languageCode": "en"
+        },
+        "distance_to_center": 79.48194151710283
+    },
+    {
+        "location": {
+            "latitude": 32.008096099999996,
+            "longitude": 34.799375000000005
+        },
+        "rating": 4.4,
+        "userRatingCount": 35,
+        "displayName": {
+            "text": "\u05e4\u05dc\u05d0\u05e4\u05dc \u05de\u05e0\u05d5",
+            "languageCode": "en"
+        },
+        "distance_to_center": 122.63336422801783
+    },
+    {
+        "location": {
+            "latitude": 32.0076095,
+            "longitude": 34.8010583
+        },
+        "rating": 4.2,
+        "userRatingCount": 17,
+        "displayName": {
+            "text": "\u05e8\u05d5\u05d8\u05d9\u05e1\u05e8\u05d9 \u05e6'\u05d9\u05e7\u05df \u05e7\u05dc\u05d0\u05d1 \u05d7\u05d5\u05dc\u05d5\u05df",
+            "languageCode": "en"
+        },
+        "distance_to_center": 52.74253536288564
+    },
+    {
+        "location": {
+            "latitude": 32.0077569,
+            "longitude": 34.8006392
+        },
+        "rating": 5,
+        "userRatingCount": 2,
+        "displayName": {
+            "text": "\u05d0\u05e8\u05d6\u05d5 \u05d7\u05d5\u05dc\u05d5\u05df",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 20.835106140317972
+    },
+    {
+        "location": {
+            "latitude": 32.0072469,
+            "longitude": 34.8003527
+        },
+        "rating": 3.4,
+        "userRatingCount": 5,
+        "displayName": {
+            "text": "\u05e4\u05d9\u05e6\u05d4 \u05ea\u05e8\u05e9\u05d9\u05e9",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 82.80315145785077
+    },
+    {
+        "location": {
+            "latitude": 32.0097977,
+            "longitude": 34.8022414
+        },
+        "rating": 3.7,
+        "userRatingCount": 9,
+        "displayName": {
+            "text": "Delicate King",
+            "languageCode": "en"
+        },
+        "distance_to_center": 254.6814507446708
+    }
+]

@@ -1,0 +1,262 @@
+[
+    {
+        "location": {
+            "latitude": 32.0941403,
+            "longitude": 34.8470338
+        },
+        "rating": 4.4,
+        "userRatingCount": 7058,
+        "displayName": {
+            "text": "Jems Beer Factory",
+            "languageCode": "en"
+        },
+        "distance_to_center": 855.1447726521953
+    },
+    {
+        "location": {
+            "latitude": 32.1012335,
+            "longitude": 34.8506626
+        },
+        "rating": 4,
+        "userRatingCount": 4500,
+        "displayName": {
+            "text": "Alfredo | \u05de\u05e1\u05e2\u05d3\u05ea \u05d0\u05dc\u05e4\u05e8\u05d3\u05d5",
+            "languageCode": "en"
+        },
+        "distance_to_center": 286.6614241829482
+    },
+    {
+        "location": {
+            "latitude": 32.0997428,
+            "longitude": 34.8543357
+        },
+        "rating": 4,
+        "userRatingCount": 2814,
+        "displayName": {
+            "text": "Nafis",
+            "languageCode": "en"
+        },
+        "distance_to_center": 109.18103149810156
+    },
+    {
+        "location": {
+            "latitude": 32.099926499999995,
+            "longitude": 34.854126
+        },
+        "rating": 4.6,
+        "userRatingCount": 2322,
+        "displayName": {
+            "text": "\u05d4\u05de\u05e7\u05d3\u05e9 - \u05de\u05e1\u05e2\u05d3\u05ea \u05d1\u05e9\u05e8\u05d9\u05dd",
+            "languageCode": "en"
+        },
+        "distance_to_center": 90.58621467803076
+    },
+    {
+        "location": {
+            "latitude": 32.0918724,
+            "longitude": 34.8569235
+        },
+        "rating": 3.4,
+        "userRatingCount": 861,
+        "displayName": {
+            "text": "McDonald's",
+            "languageCode": "en"
+        },
+        "distance_to_center": 949.3860848183609
+    },
+    {
+        "location": {
+            "latitude": 32.093993499999996,
+            "longitude": 34.8550882
+        },
+        "rating": 4.3,
+        "userRatingCount": 578,
+        "displayName": {
+            "text": "\u05e9\u05d5\u05d0\u05e8\u05de\u05d4 \u05d5\u05d9\u05e7\u05d8\u05d5\u05e8",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 669.8038794283282
+    },
+    {
+        "location": {
+            "latitude": 32.0916244,
+            "longitude": 34.856889699999996
+        },
+        "rating": 4,
+        "userRatingCount": 515,
+        "displayName": {
+            "text": "\u05e4\u05d9\u05ea\u05d4 \u05e8\u05d7\u05d5\u05d1 \u05e4\u05ea\u05d7 \u05ea\u05e7\u05d5\u05d4",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 973.917210528202
+    },
+    {
+        "location": {
+            "latitude": 32.0945286,
+            "longitude": 34.8496193
+        },
+        "rating": 4.4,
+        "userRatingCount": 36,
+        "displayName": {
+            "text": "\u05d1\u05d5\u05d9\u05d4 \u05e9\u05d5\u05d5\u05d0\u05e8\u05de\u05d4",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 674.9954582707667
+    },
+    {
+        "location": {
+            "latitude": 32.0965042,
+            "longitude": 34.849205
+        },
+        "rating": 5,
+        "userRatingCount": 92,
+        "displayName": {
+            "text": "Mim's Sandwich & Bakery \u05de\u05d9\u05de\u05e1",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 523.6143479395996
+    },
+    {
+        "location": {
+            "latitude": 32.100901199999996,
+            "longitude": 34.851033699999995
+        },
+        "rating": 4.2,
+        "userRatingCount": 6,
+        "displayName": {
+            "text": "Sum Sum \u05d1\u05e8 \u05d1\u05e8\u05d9\u05d0",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 237.19603900152893
+    },
+    {
+        "location": {
+            "latitude": 32.096489,
+            "longitude": 34.8499149
+        },
+        "rating": 4.9,
+        "userRatingCount": 38,
+        "displayName": {
+            "text": "\u05d3\u05dc\u05d9\u05d6 - deliz",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 479.2851731021635
+    },
+    {
+        "location": {
+            "latitude": 32.098647299999996,
+            "longitude": 34.8624581
+        },
+        "rating": 4.7,
+        "userRatingCount": 65,
+        "displayName": {
+            "text": "\u05d1\u05d5\u05e0\u05d6'\u05d5\u05e8 , \u05dc\u05d9\u05d0\u05d5\u05e8 \u05d4\u05e2\u05d9\u05e8\u05d0\u05e7\u05d9",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 884.2011949443795
+    },
+    {
+        "location": {
+            "latitude": 32.096775,
+            "longitude": 34.8488311
+        },
+        "rating": 4.5,
+        "userRatingCount": 71,
+        "displayName": {
+            "text": "\u05d8\u05e2\u05dd \u05e9\u05dc \u05e4\u05e2\u05dd",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 529.8174896235289
+    },
+    {
+        "location": {
+            "latitude": 32.1004787,
+            "longitude": 34.8498483
+        },
+        "rating": 3.9,
+        "userRatingCount": 27,
+        "displayName": {
+            "text": "\u05e6'\u05d9\u05e7\u05df \u05e4\u05d9\u05e7 Chick & Pick",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 323.3533502482595
+    },
+    {
+        "location": {
+            "latitude": 32.0911293,
+            "longitude": 34.8559494
+        },
+        "rating": 4.3,
+        "userRatingCount": 89,
+        "displayName": {
+            "text": "- \u05e1\u05dc\u05d8\u05d9\u05dd \u05e4\u05ea\u05d7 \u05ea\u05e7\u05d5\u05d5\u05d4 Salateam",
+            "languageCode": "en"
+        },
+        "distance_to_center": 998.7703074102109
+    },
+    {
+        "location": {
+            "latitude": 32.0983862,
+            "longitude": 34.860622
+        },
+        "rating": 4.3,
+        "userRatingCount": 232,
+        "displayName": {
+            "text": "\u05d4\u05d9\u05d9 \u05d8\u05d9\u05d9\u05e7",
+            "languageCode": "en"
+        },
+        "distance_to_center": 719.0349323962251
+    },
+    {
+        "location": {
+            "latitude": 32.0950616,
+            "longitude": 34.8540961
+        },
+        "rating": 4.6,
+        "userRatingCount": 17,
+        "displayName": {
+            "text": "\u05d4\u05e4\u05dc\u05d0\u05e4\u05dc \u05d5\u05d4\u05e1\u05d1\u05d9\u05d7",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 533.3128368898128
+    },
+    {
+        "location": {
+            "latitude": 32.094507,
+            "longitude": 34.8586425
+        },
+        "rating": 4.3,
+        "userRatingCount": 18,
+        "displayName": {
+            "text": "\u05e9\u05e0\u05d9\u05e6\u05dc \u05d0\u05e8\u05d1\u05e2 \u05d8\u05e2\u05de\u05d9\u05dd",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 781.7803616083565
+    },
+    {
+        "location": {
+            "latitude": 32.0912475,
+            "longitude": 34.8555717
+        },
+        "rating": 4.6,
+        "userRatingCount": 67,
+        "displayName": {
+            "text": "\u05e1\u05e0\u05d3\u05d5\u05d5\u05d9\u05e5' \u05e9\u05de\u05d5\u05dc\u05d9\u05e7",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 977.2433676099253
+    },
+    {
+        "location": {
+            "latitude": 32.0956802,
+            "longitude": 34.8594398
+        },
+        "rating": 3.9,
+        "userRatingCount": 103,
+        "displayName": {
+            "text": "\u05de\u05e1\u05e2\u05d3\u05ea \u05e1\u05d1\u05d1\u05d4",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 746.8452161603101
+    }
+]

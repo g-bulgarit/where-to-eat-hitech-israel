@@ -1,0 +1,223 @@
+[
+    {
+        "location": {
+            "latitude": 31.804111000000002,
+            "longitude": 35.206116
+        },
+        "rating": 4.3,
+        "userRatingCount": 3119,
+        "displayName": {
+            "text": "Entrecote",
+            "languageCode": "en"
+        },
+        "distance_to_center": 406.51404203226457
+    },
+    {
+        "location": {
+            "latitude": 31.800226199999997,
+            "longitude": 35.2109489
+        },
+        "rating": 4,
+        "userRatingCount": 2212,
+        "displayName": {
+            "text": "Ricotta Restaurant",
+            "languageCode": "en"
+        },
+        "distance_to_center": 282.7700518451367
+    },
+    {
+        "location": {
+            "latitude": 31.8002738,
+            "longitude": 35.211082399999995
+        },
+        "rating": 4.2,
+        "userRatingCount": 1754,
+        "displayName": {
+            "text": "Rodriguez",
+            "languageCode": "en"
+        },
+        "distance_to_center": 281.82638817155936
+    },
+    {
+        "location": {
+            "latitude": 31.8006855,
+            "longitude": 35.2101508
+        },
+        "rating": 4.1,
+        "userRatingCount": 80,
+        "displayName": {
+            "text": "\u05d4\u05e8 \u05d7\u05d5\u05e6\u05d1\u05d9\u05dd",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 218.85874262225505
+    },
+    {
+        "location": {
+            "latitude": 31.800400999999997,
+            "longitude": 35.212041
+        },
+        "rating": 4.6,
+        "userRatingCount": 116,
+        "displayName": {
+            "text": "Caballero/ \u05e7\u05d0\u05d1\u05dc\u05e8\u05d5",
+            "languageCode": "en"
+        },
+        "distance_to_center": 313.0649729686684
+    },
+    {
+        "location": {
+            "latitude": 31.803890199999994,
+            "longitude": 35.2131118
+        },
+        "rating": 4.3,
+        "userRatingCount": 530,
+        "displayName": {
+            "text": "Doctor Pizza",
+            "languageCode": "en"
+        },
+        "distance_to_center": 320.5558392845216
+    },
+    {
+        "location": {
+            "latitude": 31.800888,
+            "longitude": 35.2107276
+        },
+        "rating": 3.7,
+        "userRatingCount": 204,
+        "displayName": {
+            "text": "Sam's Burgers",
+            "languageCode": "en"
+        },
+        "distance_to_center": 206.22033483505035
+    },
+    {
+        "location": {
+            "latitude": 31.800913299999998,
+            "longitude": 35.2100187
+        },
+        "rating": 4.5,
+        "userRatingCount": 90,
+        "displayName": {
+            "text": "\u05e1\u05d1\u05ea\u05d0 \u05d9\u05de\u05d9\u05de\u05d4",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 193.33698074531958
+    },
+    {
+        "location": {
+            "latitude": 31.800400999999997,
+            "longitude": 35.212041
+        },
+        "rating": 4.3,
+        "userRatingCount": 351,
+        "displayName": {
+            "text": "\u05d0\u05d4\u05e8\u05d5\u05e0\u05e1 \u05de\u05e1\u05e2\u05d3\u05ea \u05d1\u05e9\u05e8\u05d9\u05dd \u05d5\u05d0\u05d5\u05db\u05dc \u05d1\u05d9\u05ea\u05d9",
+            "languageCode": "en"
+        },
+        "distance_to_center": 313.0649729686684
+    },
+    {
+        "location": {
+            "latitude": 31.8022632,
+            "longitude": 35.2091026
+        },
+        "rating": 4.3,
+        "userRatingCount": 255,
+        "displayName": {
+            "text": "\u05de\u05e8\u05d9\u05e0\u05d3\u05d4",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 99.76424441474128
+    },
+    {
+        "location": {
+            "latitude": 31.804017999999996,
+            "longitude": 35.2137451
+        },
+        "rating": 4.1,
+        "userRatingCount": 290,
+        "displayName": {
+            "text": "Refresh",
+            "languageCode": "en"
+        },
+        "distance_to_center": 380.97537064380157
+    },
+    {
+        "location": {
+            "latitude": 31.802137199999997,
+            "longitude": 35.213274399999996
+        },
+        "rating": 4.5,
+        "userRatingCount": 8,
+        "displayName": {
+            "text": "\u05d0\u05dc\u05d9\u05e9\u05e2",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 309.9764578305542
+    },
+    {
+        "location": {
+            "latitude": 31.800400999999997,
+            "longitude": 35.212041
+        },
+        "rating": 3.1,
+        "userRatingCount": 12,
+        "displayName": {
+            "text": "\u05de\u05d2\u05d4 \u05d1\u05d9\u05e1 - \u05dc\u05d9\u05dc \u05e9\u05d9\u05e9\u05d9",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 313.0649729686684
+    },
+    {
+        "location": {
+            "latitude": 31.8011041,
+            "longitude": 35.2084103
+        },
+        "rating": 4.1,
+        "userRatingCount": 20,
+        "displayName": {
+            "text": "\u05d1\u05d9\u05dc\u05d9 \u05d1\u05d9\u05e1",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 231.92264643403612
+    },
+    {
+        "location": {
+            "latitude": 31.8004076,
+            "longitude": 35.2103135
+        },
+        "rating": 5,
+        "userRatingCount": 1,
+        "displayName": {
+            "text": "\u05e8\u05d5\u05d3\u05e8\u05d9\u05d2\u05d6 \u05d0\u05e7\u05e1\u05e4\u05e8\u05e1",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 250.8075533139281
+    },
+    {
+        "location": {
+            "latitude": 31.8024219,
+            "longitude": 35.213072499999996
+        },
+        "rating": 5,
+        "userRatingCount": 1,
+        "displayName": {
+            "text": "\u05d3\u05e8\u05d5\u05e8 \u05d4\u05e7\u05d8\u05df \u05d1\u05d4\u05e8 \u05d7\u05e6\u05e4\u05d9\u05dd",
+            "languageCode": "en"
+        },
+        "distance_to_center": 286.7018420408385
+    },
+    {
+        "location": {
+            "latitude": 31.802137199999997,
+            "longitude": 35.213274399999996
+        },
+        "rating": 4.5,
+        "userRatingCount": 20,
+        "displayName": {
+            "text": "\u05d3\u05d5\u05e7\u05d8\u05d5\u05e8 \u05d8\u05d5\u05e1\u05d8",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 309.9764578305542
+    }
+]

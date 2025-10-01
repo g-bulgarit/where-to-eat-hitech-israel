@@ -1,0 +1,158 @@
+[
+    {
+        "location": {
+            "latitude": 31.263185499999995,
+            "longitude": 34.8105583
+        },
+        "rating": 4.4,
+        "userRatingCount": 1128,
+        "displayName": {
+            "text": "\u05d2'\u05de\u05e1 \u05d1\u05d0\u05e8 \u05e9\u05d1\u05e2 JEM'S BEER FACTORY",
+            "languageCode": "en"
+        },
+        "distance_to_center": 340.76801078533197
+    },
+    {
+        "location": {
+            "latitude": 31.264179099999996,
+            "longitude": 34.812643
+        },
+        "rating": 4.3,
+        "userRatingCount": 283,
+        "displayName": {
+            "text": "\u05e7\u05d5\u05dc\u05d5\u05e8\u05d8\u05d5",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 126.57202424735092
+    },
+    {
+        "location": {
+            "latitude": 31.2636423,
+            "longitude": 34.8111842
+        },
+        "rating": 4.4,
+        "userRatingCount": 149,
+        "displayName": {
+            "text": "Poke Van",
+            "languageCode": "en"
+        },
+        "distance_to_center": 270.3119460194455
+    },
+    {
+        "location": {
+            "latitude": 31.263249,
+            "longitude": 34.810646399999996
+        },
+        "rating": 3.5,
+        "userRatingCount": 466,
+        "displayName": {
+            "text": "Domino's Pizza",
+            "languageCode": "en"
+        },
+        "distance_to_center": 330.6629155585405
+    },
+    {
+        "location": {
+            "latitude": 31.2667273,
+            "longitude": 34.8101495
+        },
+        "rating": 4.1,
+        "userRatingCount": 42,
+        "displayName": {
+            "text": "\u05e8\u05d5\u05d9\u05e1 \u05d1\u05d5\u05e8\u05d2\u05e8 \u05d1\u05d0\u05e8 \u05e9\u05d1\u05e2 | Revi's burger",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 465.70498529122716
+    },
+    {
+        "location": {
+            "latitude": 31.2559633,
+            "longitude": 34.8106045
+        },
+        "rating": 4.4,
+        "userRatingCount": 542,
+        "displayName": {
+            "text": "HaShalom Falafel",
+            "languageCode": "en"
+        },
+        "distance_to_center": 962.1745333384622
+    },
+    {
+        "location": {
+            "latitude": 31.263257699999997,
+            "longitude": 34.810859799999996
+        },
+        "rating": 4.1,
+        "userRatingCount": 28,
+        "displayName": {
+            "text": "\u05d8\u05d5\u05de\u05d4\u05d5\u05e7 - \u05d1\u05d9\u05ea \u05e9\u05dc \u05d1\u05e9\u05e8\u05d9\u05dd",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 310.99407271468385
+    },
+    {
+        "location": {
+            "latitude": 31.263408599999998,
+            "longitude": 34.8108673
+        },
+        "rating": 3.5,
+        "userRatingCount": 95,
+        "displayName": {
+            "text": "\u05d4\u05ea\u05d9\u05de\u05e0\u05d9 \u05d2\u05d1 \u05d9\u05dd",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 305.57577273936954
+    },
+    {
+        "location": {
+            "latitude": 31.261946999999996,
+            "longitude": 34.8043224
+        },
+        "rating": 3.5,
+        "userRatingCount": 446,
+        "displayName": {
+            "text": "Mexicani",
+            "languageCode": "en"
+        },
+        "distance_to_center": 949.2604461862859
+    },
+    {
+        "location": {
+            "latitude": 31.256656999999997,
+            "longitude": 34.8104676
+        },
+        "rating": 5,
+        "userRatingCount": 1,
+        "displayName": {
+            "text": "\u05db\u05d9\u05db\u05e8 \u05d4\u05d8\u05e2\u05de\u05d9\u05dd",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 894.502000544159
+    },
+    {
+        "location": {
+            "latitude": 31.270620400000002,
+            "longitude": 34.807842099999995
+        },
+        "rating": 1,
+        "userRatingCount": 1,
+        "displayName": {
+            "text": "\u05de\u05e7\u05e1 \u05e9\u05d5\u05d5\u05e8\u05de\u05d4",
+            "languageCode": "en"
+        },
+        "distance_to_center": 929.9208430490941
+    },
+    {
+        "location": {
+            "latitude": 31.257638399999998,
+            "longitude": 34.8130288
+        },
+        "rating": 1,
+        "userRatingCount": 1,
+        "displayName": {
+            "text": "\u05de\u05d6\u05e0\u05d5\u05df \u05de\u05d6\u05e8\u05d7\u05d9 \u05d6'\u05e7",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 726.3632524988741
+    }
+]

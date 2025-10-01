@@ -1,0 +1,262 @@
+[
+    {
+        "location": {
+            "latitude": 32.073679399999996,
+            "longitude": 34.795770399999995
+        },
+        "rating": 4.1,
+        "userRatingCount": 7596,
+        "displayName": {
+            "text": "Dixie",
+            "languageCode": "en"
+        },
+        "distance_to_center": 341.7853370919511
+    },
+    {
+        "location": {
+            "latitude": 32.077375499999995,
+            "longitude": 34.7889447
+        },
+        "rating": 4.1,
+        "userRatingCount": 3120,
+        "displayName": {
+            "text": "Meatos",
+            "languageCode": "en"
+        },
+        "distance_to_center": 471.3142228254052
+    },
+    {
+        "location": {
+            "latitude": 32.0700137,
+            "longitude": 34.7940951
+        },
+        "rating": 4.3,
+        "userRatingCount": 3786,
+        "displayName": {
+            "text": "Yaffo Tel Aviv",
+            "languageCode": "en"
+        },
+        "distance_to_center": 494.9670185890417
+    },
+    {
+        "location": {
+            "latitude": 32.072921799999996,
+            "longitude": 34.7872692
+        },
+        "rating": 4.3,
+        "userRatingCount": 3208,
+        "displayName": {
+            "text": "Beer Garden",
+            "languageCode": "en"
+        },
+        "distance_to_center": 484.21396747484584
+    },
+    {
+        "location": {
+            "latitude": 32.0719761,
+            "longitude": 34.7888707
+        },
+        "rating": 4.1,
+        "userRatingCount": 1785,
+        "displayName": {
+            "text": "a",
+            "languageCode": "en"
+        },
+        "distance_to_center": 396.2892504036796
+    },
+    {
+        "location": {
+            "latitude": 32.077114099999996,
+            "longitude": 34.793594299999995
+        },
+        "rating": 4.6,
+        "userRatingCount": 930,
+        "displayName": {
+            "text": "HIBA Restaurant",
+            "languageCode": "en"
+        },
+        "distance_to_center": 354.7914131088882
+    },
+    {
+        "location": {
+            "latitude": 32.0775668,
+            "longitude": 34.789139299999995
+        },
+        "rating": 3.9,
+        "userRatingCount": 1536,
+        "displayName": {
+            "text": "Uno Italiano Gungo",
+            "languageCode": "en"
+        },
+        "distance_to_center": 476.38712449791996
+    },
+    {
+        "location": {
+            "latitude": 32.0750901,
+            "longitude": 34.7962866
+        },
+        "rating": 4.7,
+        "userRatingCount": 504,
+        "displayName": {
+            "text": "La Catrina",
+            "languageCode": "en"
+        },
+        "distance_to_center": 400.0336758749981
+    },
+    {
+        "location": {
+            "latitude": 32.0724995,
+            "longitude": 34.788031
+        },
+        "rating": 3.6,
+        "userRatingCount": 1395,
+        "displayName": {
+            "text": "Caf\u00e9 Nimrod",
+            "languageCode": "en"
+        },
+        "distance_to_center": 433.6359792820363
+    },
+    {
+        "location": {
+            "latitude": 32.0729713,
+            "longitude": 34.7883567
+        },
+        "rating": 4.3,
+        "userRatingCount": 562,
+        "displayName": {
+            "text": "Tasting Room",
+            "languageCode": "en"
+        },
+        "distance_to_center": 385.0292335993586
+    },
+    {
+        "location": {
+            "latitude": 32.077407799999996,
+            "longitude": 34.789276099999995
+        },
+        "rating": 3.5,
+        "userRatingCount": 1095,
+        "displayName": {
+            "text": "Fish Market by Meatos",
+            "languageCode": "en"
+        },
+        "distance_to_center": 454.4872358421452
+    },
+    {
+        "location": {
+            "latitude": 32.074389700000005,
+            "longitude": 34.7921693
+        },
+        "rating": 3.9,
+        "userRatingCount": 2476,
+        "displayName": {
+            "text": "2C",
+            "languageCode": "en"
+        },
+        "distance_to_center": 25.982637574631696
+    },
+    {
+        "location": {
+            "latitude": 32.0736111,
+            "longitude": 34.7955556
+        },
+        "rating": 3.7,
+        "userRatingCount": 1733,
+        "displayName": {
+            "text": "Philadelphia",
+            "languageCode": "en"
+        },
+        "distance_to_center": 323.1291851211443
+    },
+    {
+        "location": {
+            "latitude": 32.070703,
+            "longitude": 34.790241
+        },
+        "rating": 4.4,
+        "userRatingCount": 499,
+        "displayName": {
+            "text": "Cafe Shraga",
+            "languageCode": "en"
+        },
+        "distance_to_center": 426.2402978197149
+    },
+    {
+        "location": {
+            "latitude": 32.0778045,
+            "longitude": 34.794325199999996
+        },
+        "rating": 4.4,
+        "userRatingCount": 71,
+        "displayName": {
+            "text": "Playground Restaurant - \u05de\u05e1\u05e2\u05d3\u05ea \u05e4\u05dc\u05d9\u05d9\u05d2\u05e8\u05d0\u05d5\u05e0\u05d3",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 453.1937023835371
+    },
+    {
+        "location": {
+            "latitude": 32.075209,
+            "longitude": 34.796656999999996
+        },
+        "rating": 4.1,
+        "userRatingCount": 1144,
+        "displayName": {
+            "text": "Shawarma Nahalat Yitzhak",
+            "languageCode": "en"
+        },
+        "distance_to_center": 437.2264062399863
+    },
+    {
+        "location": {
+            "latitude": 32.0700132,
+            "longitude": 34.7916863
+        },
+        "rating": 4.6,
+        "userRatingCount": 79,
+        "displayName": {
+            "text": "Carne Bar",
+            "languageCode": "en"
+        },
+        "distance_to_center": 463.740598377187
+    },
+    {
+        "location": {
+            "latitude": 32.0771028,
+            "longitude": 34.793596199999996
+        },
+        "rating": 3.5,
+        "userRatingCount": 228,
+        "displayName": {
+            "text": "Aroma",
+            "languageCode": "en"
+        },
+        "distance_to_center": 353.6917411523583
+    },
+    {
+        "location": {
+            "latitude": 32.071449199999996,
+            "longitude": 34.7945327
+        },
+        "rating": 4.2,
+        "userRatingCount": 985,
+        "displayName": {
+            "text": "Pundak Ayalon",
+            "languageCode": "en"
+        },
+        "distance_to_center": 373.6967841956339
+    },
+    {
+        "location": {
+            "latitude": 32.078116300000005,
+            "longitude": 34.793884399999996
+        },
+        "rating": 3.4,
+        "userRatingCount": 65,
+        "displayName": {
+            "text": "Moses Shop",
+            "languageCode": "en"
+        },
+        "distance_to_center": 468.79104136186174
+    }
+]

@@ -1,0 +1,262 @@
+[
+    {
+        "location": {
+            "latitude": 32.07819990000001,
+            "longitude": 34.7946769
+        },
+        "rating": 3.8,
+        "userRatingCount": 3013,
+        "displayName": {
+            "text": "Malka by Eyal Shani",
+            "languageCode": "en"
+        },
+        "distance_to_center": 844.6437078095487
+    },
+    {
+        "location": {
+            "latitude": 32.0828935,
+            "longitude": 34.791633
+        },
+        "rating": 4.3,
+        "userRatingCount": 1829,
+        "displayName": {
+            "text": "Henrietta Caf\u00e9",
+            "languageCode": "en"
+        },
+        "distance_to_center": 870.5386708254457
+    },
+    {
+        "location": {
+            "latitude": 32.0890674,
+            "longitude": 34.7973897
+        },
+        "rating": 4.2,
+        "userRatingCount": 2141,
+        "displayName": {
+            "text": "Reviva and Celia",
+            "languageCode": "en"
+        },
+        "distance_to_center": 676.2148957062651
+    },
+    {
+        "location": {
+            "latitude": 32.089020999999995,
+            "longitude": 34.797353699999995
+        },
+        "rating": 4.3,
+        "userRatingCount": 4479,
+        "displayName": {
+            "text": "Blue Rooster",
+            "languageCode": "en"
+        },
+        "distance_to_center": 673.3171227208252
+    },
+    {
+        "location": {
+            "latitude": 32.0860822,
+            "longitude": 34.8030986
+        },
+        "rating": 2.5,
+        "userRatingCount": 545,
+        "displayName": {
+            "text": "Meat Night - \u05de\u05d9\u05d8 \u05e0\u05d9\u05d9\u05d8",
+            "languageCode": "en"
+        },
+        "distance_to_center": 339.46418504855416
+    },
+    {
+        "location": {
+            "latitude": 32.0887476,
+            "longitude": 34.797187
+        },
+        "rating": 4.3,
+        "userRatingCount": 559,
+        "displayName": {
+            "text": "Studio Cafe and Bakery",
+            "languageCode": "en"
+        },
+        "distance_to_center": 654.9192588635789
+    },
+    {
+        "location": {
+            "latitude": 32.0792259,
+            "longitude": 34.7949402
+        },
+        "rating": 4.3,
+        "userRatingCount": 3391,
+        "displayName": {
+            "text": "Vong",
+            "languageCode": "en"
+        },
+        "distance_to_center": 746.8343751924693
+    },
+    {
+        "location": {
+            "latitude": 32.0845909,
+            "longitude": 34.802982899999996
+        },
+        "rating": 3.2,
+        "userRatingCount": 657,
+        "displayName": {
+            "text": "McDonald's",
+            "languageCode": "en"
+        },
+        "distance_to_center": 226.307309583544
+    },
+    {
+        "location": {
+            "latitude": 32.082641599999995,
+            "longitude": 34.801673799999996
+        },
+        "rating": 3.7,
+        "userRatingCount": 1217,
+        "displayName": {
+            "text": "Japanika",
+            "languageCode": "en"
+        },
+        "distance_to_center": 145.87775286425082
+    },
+    {
+        "location": {
+            "latitude": 32.0857218,
+            "longitude": 34.8050412
+        },
+        "rating": 4.1,
+        "userRatingCount": 1282,
+        "displayName": {
+            "text": "Sheldon",
+            "languageCode": "en"
+        },
+        "distance_to_center": 456.6071170575094
+    },
+    {
+        "location": {
+            "latitude": 32.0837559,
+            "longitude": 34.8038516
+        },
+        "rating": 3.8,
+        "userRatingCount": 1171,
+        "displayName": {
+            "text": "\u05e8\u05d9\u05d1\u05e8 \u05e1\u05d5\u05e9\u05d9 \u05e8\u05de\u05ea \u05d2\u05df River",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 286.8930956654662
+    },
+    {
+        "location": {
+            "latitude": 32.087509,
+            "longitude": 34.8039622
+        },
+        "rating": 3.8,
+        "userRatingCount": 1712,
+        "displayName": {
+            "text": "Shemesh",
+            "languageCode": "en"
+        },
+        "distance_to_center": 515.253692440754
+    },
+    {
+        "location": {
+            "latitude": 32.084557,
+            "longitude": 34.802937199999995
+        },
+        "rating": 4,
+        "userRatingCount": 260,
+        "displayName": {
+            "text": "\u05de\u05e1\u05e2\u05d3\u05d4 \u05d3\u05d9\u05d9\u05e0\u05e8 \u05d9\u05e9\u05e8\u05d0\u05dc\u05d9 \u05d1\u05e8\u05de\u05ea \u05d2\u05df \u05e8\u05e0\u05d5 \u05d0\u05de\u05d9\u05dc\u05d9\u05d4 Reno Emilia Italian restaurant",
+            "languageCode": "fr"
+        },
+        "distance_to_center": 220.80905160920068
+    },
+    {
+        "location": {
+            "latitude": 32.0835469,
+            "longitude": 34.800542199999995
+        },
+        "rating": 4.2,
+        "userRatingCount": 565,
+        "displayName": {
+            "text": "Hummus Eliyahu",
+            "languageCode": "en"
+        },
+        "distance_to_center": 32.36100996031133
+    },
+    {
+        "location": {
+            "latitude": 32.0867804,
+            "longitude": 34.8031489
+        },
+        "rating": 4.5,
+        "userRatingCount": 777,
+        "displayName": {
+            "text": "Mensa, homemade food",
+            "languageCode": "en"
+        },
+        "distance_to_center": 405.06034337125266
+    },
+    {
+        "location": {
+            "latitude": 32.0845912,
+            "longitude": 34.8030252
+        },
+        "rating": 4.4,
+        "userRatingCount": 79,
+        "displayName": {
+            "text": "Vachach - Japanese restaurant \u05db\u05e9\u05e8 kosher",
+            "languageCode": "en"
+        },
+        "distance_to_center": 229.94045855514972
+    },
+    {
+        "location": {
+            "latitude": 32.0874046,
+            "longitude": 34.8038028
+        },
+        "rating": 4.2,
+        "userRatingCount": 393,
+        "displayName": {
+            "text": "\u05e1\u05d0\u05d9 \u05e1\u05d5\u05e9\u05d9 \u05d1\u05e8 | \u05db\u05e9\u05e8",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 497.11840638748674
+    },
+    {
+        "location": {
+            "latitude": 32.0778045,
+            "longitude": 34.794325199999996
+        },
+        "rating": 4.4,
+        "userRatingCount": 71,
+        "displayName": {
+            "text": "Playground Restaurant - \u05de\u05e1\u05e2\u05d3\u05ea \u05e4\u05dc\u05d9\u05d9\u05d2\u05e8\u05d0\u05d5\u05e0\u05d3",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 899.4560397104609
+    },
+    {
+        "location": {
+            "latitude": 32.0873839,
+            "longitude": 34.803891899999996
+        },
+        "rating": 3.9,
+        "userRatingCount": 130,
+        "displayName": {
+            "text": "\u05d0\u05d5\u05d8\u05d5\u05e8\u05d5",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 500.0608935964981
+    },
+    {
+        "location": {
+            "latitude": 32.0831497,
+            "longitude": 34.805605899999996
+        },
+        "rating": 3.3,
+        "userRatingCount": 456,
+        "displayName": {
+            "text": "Domino's Pizza",
+            "languageCode": "en"
+        },
+        "distance_to_center": 456.90826528456597
+    }
+]

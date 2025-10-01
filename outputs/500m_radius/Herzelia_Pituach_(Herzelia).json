@@ -1,0 +1,262 @@
+[
+    {
+        "location": {
+            "latitude": 32.1621208,
+            "longitude": 34.8067741
+        },
+        "rating": 4.5,
+        "userRatingCount": 4488,
+        "displayName": {
+            "text": "MeatBar",
+            "languageCode": "en"
+        },
+        "distance_to_center": 396.99781448473107
+    },
+    {
+        "location": {
+            "latitude": 32.1621806,
+            "longitude": 34.8104973
+        },
+        "rating": 4.3,
+        "userRatingCount": 6242,
+        "displayName": {
+            "text": "Sebastian",
+            "languageCode": "en"
+        },
+        "distance_to_center": 330.03646665938334
+    },
+    {
+        "location": {
+            "latitude": 32.161887,
+            "longitude": 34.809796399999996
+        },
+        "rating": 4.5,
+        "userRatingCount": 1809,
+        "displayName": {
+            "text": "Meat Bar Burger",
+            "languageCode": "en"
+        },
+        "distance_to_center": 283.8452715514902
+    },
+    {
+        "location": {
+            "latitude": 32.162482499999996,
+            "longitude": 34.80860020000001
+        },
+        "rating": 4.2,
+        "userRatingCount": 6634,
+        "displayName": {
+            "text": "Greco",
+            "languageCode": "en"
+        },
+        "distance_to_center": 356.8490302381506
+    },
+    {
+        "location": {
+            "latitude": 32.1603547,
+            "longitude": 34.807918
+        },
+        "rating": 4.1,
+        "userRatingCount": 3536,
+        "displayName": {
+            "text": "Giraffe",
+            "languageCode": "en"
+        },
+        "distance_to_center": 181.08900281947288
+    },
+    {
+        "location": {
+            "latitude": 32.1593914,
+            "longitude": 34.8095248
+        },
+        "rating": 4.4,
+        "userRatingCount": 3829,
+        "displayName": {
+            "text": "Zozobra",
+            "languageCode": "en"
+        },
+        "distance_to_center": 9.39385195754881
+    },
+    {
+        "location": {
+            "latitude": 32.1574707,
+            "longitude": 34.8100051
+        },
+        "rating": 3.8,
+        "userRatingCount": 5744,
+        "displayName": {
+            "text": "Original Pancake House",
+            "languageCode": "en"
+        },
+        "distance_to_center": 216.6118329438075
+    },
+    {
+        "location": {
+            "latitude": 32.1596131,
+            "longitude": 34.8095476
+        },
+        "rating": 4,
+        "userRatingCount": 1268,
+        "displayName": {
+            "text": "Arcaffe",
+            "languageCode": "en"
+        },
+        "distance_to_center": 30.57711651453655
+    },
+    {
+        "location": {
+            "latitude": 32.1595818,
+            "longitude": 34.8072708
+        },
+        "rating": 4.2,
+        "userRatingCount": 1046,
+        "displayName": {
+            "text": "Minato",
+            "languageCode": "en"
+        },
+        "distance_to_center": 205.45560336113667
+    },
+    {
+        "location": {
+            "latitude": 32.161166099999996,
+            "longitude": 34.8088249
+        },
+        "rating": 4.4,
+        "userRatingCount": 1779,
+        "displayName": {
+            "text": "Lola Martin",
+            "languageCode": "en"
+        },
+        "distance_to_center": 209.56683990908317
+    },
+    {
+        "location": {
+            "latitude": 32.1610316,
+            "longitude": 34.8061177
+        },
+        "rating": 3.9,
+        "userRatingCount": 2525,
+        "displayName": {
+            "text": "JAPANIKA HERZELIYA KOSHER | \u05d2\u05f3\u05e4\u05e0\u05d9\u05e7\u05d4 \u05d4\u05e8\u05e6\u05dc\u05d9\u05d4 \u05db\u05e9\u05e8",
+            "languageCode": "en"
+        },
+        "distance_to_center": 364.01742478544566
+    },
+    {
+        "location": {
+            "latitude": 32.1591328,
+            "longitude": 34.8092744
+        },
+        "rating": 4,
+        "userRatingCount": 2711,
+        "displayName": {
+            "text": "Kyoto",
+            "languageCode": "en"
+        },
+        "distance_to_center": 29.03551602171663
+    },
+    {
+        "location": {
+            "latitude": 32.156705599999995,
+            "longitude": 34.8052073
+        },
+        "rating": 3.6,
+        "userRatingCount": 139,
+        "displayName": {
+            "text": "\u05e7\u05d0\u05d5\u05e4\u05de\u05df \u05d5\u05db\u05d4\u05df",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 495.7121649768616
+    },
+    {
+        "location": {
+            "latitude": 32.162287299999996,
+            "longitude": 34.809475299999995
+        },
+        "rating": 4,
+        "userRatingCount": 3186,
+        "displayName": {
+            "text": "Tandoori",
+            "languageCode": "en"
+        },
+        "distance_to_center": 326.37284731311297
+    },
+    {
+        "location": {
+            "latitude": 32.161083999999995,
+            "longitude": 34.81068
+        },
+        "rating": 3.4,
+        "userRatingCount": 684,
+        "displayName": {
+            "text": "McDonald's",
+            "languageCode": "en"
+        },
+        "distance_to_center": 225.37559118839042
+    },
+    {
+        "location": {
+            "latitude": 32.162414,
+            "longitude": 34.8096561
+        },
+        "rating": 4,
+        "userRatingCount": 140,
+        "displayName": {
+            "text": "m32 burger",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 341.0942142800897
+    },
+    {
+        "location": {
+            "latitude": 32.160579,
+            "longitude": 34.807711999999995
+        },
+        "rating": 3.9,
+        "userRatingCount": 2602,
+        "displayName": {
+            "text": "\u05d0\u05d2\u05d0\u05d3\u05d9\u05e8 \u05d1\u05d5\u05e8\u05d2\u05e8 \u05d4\u05e8\u05e6\u05dc\u05d9\u05d4",
+            "languageCode": "en"
+        },
+        "distance_to_center": 211.8872053563779
+    },
+    {
+        "location": {
+            "latitude": 32.162256899999996,
+            "longitude": 34.8093593
+        },
+        "rating": 4,
+        "userRatingCount": 652,
+        "displayName": {
+            "text": "Arcaff\u00e8",
+            "languageCode": "en"
+        },
+        "distance_to_center": 323.0438556798605
+    },
+    {
+        "location": {
+            "latitude": 32.1616972,
+            "longitude": 34.8097713
+        },
+        "rating": 4.6,
+        "userRatingCount": 298,
+        "displayName": {
+            "text": "Suduch",
+            "languageCode": "en"
+        },
+        "distance_to_center": 262.5857636513827
+    },
+    {
+        "location": {
+            "latitude": 32.1587141,
+            "longitude": 34.8072515
+        },
+        "rating": 4.2,
+        "userRatingCount": 150,
+        "displayName": {
+            "text": "Ginza Sushi Bar- \u05d2\u05d9\u05e0\u05d6\u05d4 \u05e1\u05d5\u05e9\u05d9 \u05d1\u05e8",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 217.7705066275405
+    }
+]

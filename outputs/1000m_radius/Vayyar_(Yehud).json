@@ -1,0 +1,262 @@
+[
+    {
+        "location": {
+            "latitude": 32.0257636,
+            "longitude": 34.901337100000006
+        },
+        "rating": 4.4,
+        "userRatingCount": 424,
+        "displayName": {
+            "text": "\u05de\u05d9\u05e0\u05d4 \u05d8\u05d5\u05de\u05d9\u05d9 - Minna Tomei \u05d9\u05d4\u05d5\u05d3",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 434.6054356811294
+    },
+    {
+        "location": {
+            "latitude": 32.027324899999996,
+            "longitude": 34.8947856
+        },
+        "rating": 4.2,
+        "userRatingCount": 3752,
+        "displayName": {
+            "text": "Tatti Loft",
+            "languageCode": "en"
+        },
+        "distance_to_center": 252.1565531126926
+    },
+    {
+        "location": {
+            "latitude": 32.025909399999996,
+            "longitude": 34.901256499999995
+        },
+        "rating": 4.5,
+        "userRatingCount": 1855,
+        "displayName": {
+            "text": "Fat Vinny Yehud",
+            "languageCode": "en"
+        },
+        "distance_to_center": 419.7979096795474
+    },
+    {
+        "location": {
+            "latitude": 32.0259923,
+            "longitude": 34.8980384
+        },
+        "rating": 4.2,
+        "userRatingCount": 516,
+        "displayName": {
+            "text": "Benedict Yehud - \u05d1\u05e0\u05d3\u05d9\u05e7\u05d8 \u05d9\u05d4\u05d5\u05d3",
+            "languageCode": "en"
+        },
+        "distance_to_center": 208.92343555867836
+    },
+    {
+        "location": {
+            "latitude": 32.0288363,
+            "longitude": 34.897293399999995
+        },
+        "rating": 4.1,
+        "userRatingCount": 1374,
+        "displayName": {
+            "text": "\u05de\u05e1\u05e2\u05d3\u05ea \u05e0\u05d0\u05d5\u05de\u05d9 - Naomi Asian",
+            "languageCode": "en"
+        },
+        "distance_to_center": 116.966118464632
+    },
+    {
+        "location": {
+            "latitude": 32.027037199999995,
+            "longitude": 34.896553
+        },
+        "rating": 4,
+        "userRatingCount": 1106,
+        "displayName": {
+            "text": "\u05d3\u05d5\u05e0\u05e8/\u05e9\u05d5\u05d5\u05d0\u05e8\u05de\u05d4 \u05d8\u05d5\u05e8\u05e7\u05d9\u05ea \u05d5\u05e2\u05dc \u05d4\u05d0\u05e9",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 115.81399515360307
+    },
+    {
+        "location": {
+            "latitude": 32.0284355,
+            "longitude": 34.8988456
+        },
+        "rating": 4,
+        "userRatingCount": 1704,
+        "displayName": {
+            "text": "Zinc",
+            "languageCode": "en"
+        },
+        "distance_to_center": 154.16856881914438
+    },
+    {
+        "location": {
+            "latitude": 32.0343818,
+            "longitude": 34.8932228
+        },
+        "rating": 4.6,
+        "userRatingCount": 314,
+        "displayName": {
+            "text": "\u05d0\u05e6\u05dc \u05d0\u05d3\u05e8\u05d9, \u05d9\u05d4\u05d5\u05d3",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 833.057575128677
+    },
+    {
+        "location": {
+            "latitude": 32.0262441,
+            "longitude": 34.9010009
+        },
+        "rating": 4.8,
+        "userRatingCount": 1021,
+        "displayName": {
+            "text": "\u05d9\u05d5\u05de\u05e0\u05d2\u05e1 Humongous - \u05d9\u05d4\u05d5\u05d3",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 380.8507565799094
+    },
+    {
+        "location": {
+            "latitude": 32.0289821,
+            "longitude": 34.8992066
+        },
+        "rating": 4,
+        "userRatingCount": 115,
+        "displayName": {
+            "text": "\u05e9\u05d5\u05d5\u05d0\u05e8\u05de\u05d4 \u05de\u05d9\u05e7\u05e1",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 216.0419976117089
+    },
+    {
+        "location": {
+            "latitude": 32.0309257,
+            "longitude": 34.888625999999995
+        },
+        "rating": 4.8,
+        "userRatingCount": 279,
+        "displayName": {
+            "text": "\u05d7\u05d5\u05de\u05d5\u05e1 \u05e4\u05d9\u05e8\u05dc\u05d4 - \u05d7\u05d5\u05de\u05d5\u05e1\u05d9\u05d4 \u05dc\u05de\u05d4\u05d3\u05e8\u05d9\u05df",
+            "languageCode": "en"
+        },
+        "distance_to_center": 898.6812411938811
+    },
+    {
+        "location": {
+            "latitude": 32.0256343,
+            "longitude": 34.901371
+        },
+        "rating": 2.6,
+        "userRatingCount": 217,
+        "displayName": {
+            "text": "McDonalds",
+            "languageCode": "en"
+        },
+        "distance_to_center": 444.93696825248725
+    },
+    {
+        "location": {
+            "latitude": 32.0277983,
+            "longitude": 34.891123799999995
+        },
+        "rating": 3.4,
+        "userRatingCount": 338,
+        "displayName": {
+            "text": "Domino's Pizza",
+            "languageCode": "en"
+        },
+        "distance_to_center": 592.380192433516
+    },
+    {
+        "location": {
+            "latitude": 32.034721,
+            "longitude": 34.892893
+        },
+        "rating": 4.3,
+        "userRatingCount": 217,
+        "displayName": {
+            "text": "\u05e4\u05d9\u05e6\u05d4 \u05e9\u05de\u05e9 \u05d9\u05d4\u05d5\u05d3",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 881.1021446411268
+    },
+    {
+        "location": {
+            "latitude": 32.0280521,
+            "longitude": 34.8895671
+        },
+        "rating": 3.5,
+        "userRatingCount": 33,
+        "displayName": {
+            "text": "Burger King (\u05db\u05e9\u05e8)",
+            "languageCode": "en"
+        },
+        "distance_to_center": 739.8705946093531
+    },
+    {
+        "location": {
+            "latitude": 32.0301152,
+            "longitude": 34.888869299999996
+        },
+        "rating": 4.5,
+        "userRatingCount": 173,
+        "displayName": {
+            "text": "\u05e4\u05dc\u05d0\u05e4\u05dc \u05e6\u05d9\u05d5\u05df",
+            "languageCode": "en"
+        },
+        "distance_to_center": 845.739398687197
+    },
+    {
+        "location": {
+            "latitude": 32.0321219,
+            "longitude": 34.8888227
+        },
+        "rating": 4.2,
+        "userRatingCount": 37,
+        "displayName": {
+            "text": "\u05d4\u05e9\u05e0\u05d9\u05e6\u05dc \u05e9\u05dc \u05de\u05d5\u05d8\u05d9 - \u05e9\u05e0\u05d9\u05e6\u05dc \u05d1\u05d9\u05d4\u05d5\u05d3",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 942.2996657914707
+    },
+    {
+        "location": {
+            "latitude": 32.029977699999996,
+            "longitude": 34.891897199999995
+        },
+        "rating": 4.6,
+        "userRatingCount": 87,
+        "displayName": {
+            "text": "\u05e9\u05d5\u05e4\u05e8\u05d0 \u05e8\u05d5\u05de\u05d4",
+            "languageCode": "en"
+        },
+        "distance_to_center": 573.6668990292106
+    },
+    {
+        "location": {
+            "latitude": 32.0265724,
+            "longitude": 34.8986302
+        },
+        "rating": 4,
+        "userRatingCount": 28,
+        "displayName": {
+            "text": "\u05d4\u05e4\u05d5\u05e0\u05d3\u05e7",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 178.39031107006264
+    },
+    {
+        "location": {
+            "latitude": 32.0326324,
+            "longitude": 34.8885238
+        },
+        "rating": 4.4,
+        "userRatingCount": 451,
+        "displayName": {
+            "text": "Big Burger",
+            "languageCode": "en"
+        },
+        "distance_to_center": 996.21036838405
+    }
+]

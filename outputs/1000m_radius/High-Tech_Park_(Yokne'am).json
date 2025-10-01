@@ -1,0 +1,262 @@
+[
+    {
+        "location": {
+            "latitude": 32.6610222,
+            "longitude": 35.1057227
+        },
+        "rating": 4.5,
+        "userRatingCount": 1319,
+        "displayName": {
+            "text": "Chang Ba",
+            "languageCode": "en"
+        },
+        "distance_to_center": 469.23576020558784
+    },
+    {
+        "location": {
+            "latitude": 32.660236399999995,
+            "longitude": 35.1054192
+        },
+        "rating": 4,
+        "userRatingCount": 2504,
+        "displayName": {
+            "text": "Aroma",
+            "languageCode": "en"
+        },
+        "distance_to_center": 554.3401689275976
+    },
+    {
+        "location": {
+            "latitude": 32.6613082,
+            "longitude": 35.1056289
+        },
+        "rating": 4.6,
+        "userRatingCount": 721,
+        "displayName": {
+            "text": "Burger Saloon",
+            "languageCode": "en"
+        },
+        "distance_to_center": 436.6546949975876
+    },
+    {
+        "location": {
+            "latitude": 32.6595831,
+            "longitude": 35.1051293
+        },
+        "rating": 3.9,
+        "userRatingCount": 36,
+        "displayName": {
+            "text": "\u05de\u05ea\u05d7\u05dd G",
+            "languageCode": "en"
+        },
+        "distance_to_center": 626.5880857249882
+    },
+    {
+        "location": {
+            "latitude": 32.6594635,
+            "longitude": 35.104703
+        },
+        "rating": 4.2,
+        "userRatingCount": 987,
+        "displayName": {
+            "text": "Piano Piano",
+            "languageCode": "en"
+        },
+        "distance_to_center": 641.389650386131
+    },
+    {
+        "location": {
+            "latitude": 32.6597327,
+            "longitude": 35.104941600000004
+        },
+        "rating": 4.3,
+        "userRatingCount": 2863,
+        "displayName": {
+            "text": "Burgus Burger Bar",
+            "languageCode": "en"
+        },
+        "distance_to_center": 610.3006247467184
+    },
+    {
+        "location": {
+            "latitude": 32.663347699999996,
+            "longitude": 35.1050889
+        },
+        "rating": 4.5,
+        "userRatingCount": 2126,
+        "displayName": {
+            "text": "Hummus Eliyahu",
+            "languageCode": "en"
+        },
+        "distance_to_center": 207.64444808348605
+    },
+    {
+        "location": {
+            "latitude": 32.660026699999996,
+            "longitude": 35.105255
+        },
+        "rating": 3.4,
+        "userRatingCount": 1114,
+        "displayName": {
+            "text": "McDonald's",
+            "languageCode": "en"
+        },
+        "distance_to_center": 577.2486961808447
+    },
+    {
+        "location": {
+            "latitude": 32.6595831,
+            "longitude": 35.1051293
+        },
+        "rating": 4.3,
+        "userRatingCount": 277,
+        "displayName": {
+            "text": "\u05e8\u05d5\u05d1\u05df \u05d9\u05e7\u05e0\u05e2\u05dd",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 626.5880857249882
+    },
+    {
+        "location": {
+            "latitude": 32.658818,
+            "longitude": 35.1082153
+        },
+        "rating": 4.7,
+        "userRatingCount": 468,
+        "displayName": {
+            "text": "Falafel Shabi",
+            "languageCode": "en"
+        },
+        "distance_to_center": 766.8066891345945
+    },
+    {
+        "location": {
+            "latitude": 32.6631699,
+            "longitude": 35.1050362
+        },
+        "rating": 4.1,
+        "userRatingCount": 76,
+        "displayName": {
+            "text": "\u05e9\u05d5\u05d5\u05d0\u05e8\u05de\u05d4 \u05d1\u05d9\u05e7\u05e0\u05e2\u05dd - \u05e9\u05d5\u05d5\u05d0\u05e8\u05de\u05d4 \u05d9\u05d6\u05e8\u05d0\u05dc\u05d5\u05d1",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 227.6448304541998
+    },
+    {
+        "location": {
+            "latitude": 32.659191299999996,
+            "longitude": 35.1068573
+        },
+        "rating": 4.5,
+        "userRatingCount": 637,
+        "displayName": {
+            "text": "Falafel Neto",
+            "languageCode": "en"
+        },
+        "distance_to_center": 688.5765609034744
+    },
+    {
+        "location": {
+            "latitude": 32.6595945,
+            "longitude": 35.104708699999996
+        },
+        "rating": 4.1,
+        "userRatingCount": 99,
+        "displayName": {
+            "text": "\u05e9\u05e0\u05d9\u05e6\u05dc 20 \u05d8\u05e2\u05de\u05d9\u05dd",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 626.8045569685773
+    },
+    {
+        "location": {
+            "latitude": 32.6624846,
+            "longitude": 35.104991399999996
+        },
+        "rating": 4,
+        "userRatingCount": 87,
+        "displayName": {
+            "text": "Chopstick",
+            "languageCode": "en"
+        },
+        "distance_to_center": 304.0475152336799
+    },
+    {
+        "location": {
+            "latitude": 32.6612029,
+            "longitude": 35.1057977
+        },
+        "rating": 3.8,
+        "userRatingCount": 44,
+        "displayName": {
+            "text": "\u05e0\u05d0\u05e4\u05d5 \u05d9\u05e7\u05e0\u05e2\u05dd - NAPO bowl & roll",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 450.11178804005215
+    },
+    {
+        "location": {
+            "latitude": 32.6595831,
+            "longitude": 35.1051293
+        },
+        "rating": 3.7,
+        "userRatingCount": 184,
+        "displayName": {
+            "text": "Pizza Hut Yokneam",
+            "languageCode": "en"
+        },
+        "distance_to_center": 626.5880857249882
+    },
+    {
+        "location": {
+            "latitude": 32.6611309,
+            "longitude": 35.105897399999996
+        },
+        "rating": 4.9,
+        "userRatingCount": 50,
+        "displayName": {
+            "text": "\u05e4\u05d5\u05e7\u05d9 \u05d5\u05d0\u05df - Poke Van",
+            "languageCode": "en"
+        },
+        "distance_to_center": 459.3513297875687
+    },
+    {
+        "location": {
+            "latitude": 32.663177499999996,
+            "longitude": 35.105382899999995
+        },
+        "rating": 4.2,
+        "userRatingCount": 101,
+        "displayName": {
+            "text": "\u05e9\u05d5\u05d5\u05d0\u05e8\u05de\u05d4, \u05d7\u05d5\u05de\u05d5\u05e1, \u05e1\u05e0\u05d3\u05d5\u05d5\u05d9\u05e5",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 227.32024801904072
+    },
+    {
+        "location": {
+            "latitude": 32.6633415,
+            "longitude": 35.1051673
+        },
+        "rating": 4.2,
+        "userRatingCount": 58,
+        "displayName": {
+            "text": "\u05d1\u05d2\u05d8 \u05e9\u05d0\u05d5\u05dc\u05d9",
+            "languageCode": "en"
+        },
+        "distance_to_center": 208.19311623902735
+    },
+    {
+        "location": {
+            "latitude": 32.661952299999996,
+            "longitude": 35.1065324
+        },
+        "rating": 4.3,
+        "userRatingCount": 18,
+        "displayName": {
+            "text": "\u05d1\u05d0\u05d2\u05d8 \u05d9\u05d5\u05e1\u05e3",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 384.6225785408835
+    }
+]

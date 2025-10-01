@@ -1,0 +1,210 @@
+[
+    {
+        "location": {
+            "latitude": 32.6610222,
+            "longitude": 35.1057227
+        },
+        "rating": 4.5,
+        "userRatingCount": 1319,
+        "displayName": {
+            "text": "Chang Ba",
+            "languageCode": "en"
+        },
+        "distance_to_center": 469.23576020558784
+    },
+    {
+        "location": {
+            "latitude": 32.6613082,
+            "longitude": 35.1056289
+        },
+        "rating": 4.6,
+        "userRatingCount": 721,
+        "displayName": {
+            "text": "Burger Saloon",
+            "languageCode": "en"
+        },
+        "distance_to_center": 436.6546949975876
+    },
+    {
+        "location": {
+            "latitude": 32.663347699999996,
+            "longitude": 35.1050889
+        },
+        "rating": 4.5,
+        "userRatingCount": 2126,
+        "displayName": {
+            "text": "Hummus Eliyahu",
+            "languageCode": "en"
+        },
+        "distance_to_center": 207.64444808348605
+    },
+    {
+        "location": {
+            "latitude": 32.6631699,
+            "longitude": 35.1050362
+        },
+        "rating": 4.1,
+        "userRatingCount": 76,
+        "displayName": {
+            "text": "\u05e9\u05d5\u05d5\u05d0\u05e8\u05de\u05d4 \u05d1\u05d9\u05e7\u05e0\u05e2\u05dd - \u05e9\u05d5\u05d5\u05d0\u05e8\u05de\u05d4 \u05d9\u05d6\u05e8\u05d0\u05dc\u05d5\u05d1",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 227.6448304541998
+    },
+    {
+        "location": {
+            "latitude": 32.6624846,
+            "longitude": 35.104991399999996
+        },
+        "rating": 4,
+        "userRatingCount": 87,
+        "displayName": {
+            "text": "Chopstick",
+            "languageCode": "en"
+        },
+        "distance_to_center": 304.0475152336799
+    },
+    {
+        "location": {
+            "latitude": 32.6612029,
+            "longitude": 35.1057977
+        },
+        "rating": 3.8,
+        "userRatingCount": 44,
+        "displayName": {
+            "text": "\u05e0\u05d0\u05e4\u05d5 \u05d9\u05e7\u05e0\u05e2\u05dd - NAPO bowl & roll",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 450.11178804005215
+    },
+    {
+        "location": {
+            "latitude": 32.663177499999996,
+            "longitude": 35.105382899999995
+        },
+        "rating": 4.2,
+        "userRatingCount": 101,
+        "displayName": {
+            "text": "\u05e9\u05d5\u05d5\u05d0\u05e8\u05de\u05d4, \u05d7\u05d5\u05de\u05d5\u05e1, \u05e1\u05e0\u05d3\u05d5\u05d5\u05d9\u05e5",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 227.32024801904072
+    },
+    {
+        "location": {
+            "latitude": 32.6611309,
+            "longitude": 35.105897399999996
+        },
+        "rating": 4.9,
+        "userRatingCount": 50,
+        "displayName": {
+            "text": "\u05e4\u05d5\u05e7\u05d9 \u05d5\u05d0\u05df - Poke Van",
+            "languageCode": "en"
+        },
+        "distance_to_center": 459.3513297875687
+    },
+    {
+        "location": {
+            "latitude": 32.6633415,
+            "longitude": 35.1051673
+        },
+        "rating": 4.2,
+        "userRatingCount": 58,
+        "displayName": {
+            "text": "\u05d1\u05d2\u05d8 \u05e9\u05d0\u05d5\u05dc\u05d9",
+            "languageCode": "en"
+        },
+        "distance_to_center": 208.19311623902735
+    },
+    {
+        "location": {
+            "latitude": 32.661952299999996,
+            "longitude": 35.1065324
+        },
+        "rating": 4.3,
+        "userRatingCount": 18,
+        "displayName": {
+            "text": "\u05d1\u05d0\u05d2\u05d8 \u05d9\u05d5\u05e1\u05e3",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 384.6225785408835
+    },
+    {
+        "location": {
+            "latitude": 32.6621862,
+            "longitude": 35.1061467
+        },
+        "rating": 4.4,
+        "userRatingCount": 188,
+        "displayName": {
+            "text": "\u05d0\u05d7\u05d5\u05d6\u05ea \u05e1\u05d9\u05de\u05d9\u05d8\u05d4",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 348.99756005278584
+    },
+    {
+        "location": {
+            "latitude": 32.663288,
+            "longitude": 35.1065128
+        },
+        "rating": 5,
+        "userRatingCount": 3,
+        "displayName": {
+            "text": "\u05de\u05d8\u05d1\u05d7 \u05d3\u05d5\u05d3\u05d4 \u05e1\u05de\u05d9\u05e8\u05d4",
+            "languageCode": "de"
+        },
+        "distance_to_center": 248.3487682928065
+    },
+    {
+        "location": {
+            "latitude": 32.6624455,
+            "longitude": 35.104848499999996
+        },
+        "rating": 4.6,
+        "userRatingCount": 10,
+        "displayName": {
+            "text": "\u05d1\u05e8\u05d0\u05e9\u05d9\u05ea \u05de\u05e1\u05e2\u05d3\u05ea \u05d1\u05e9\u05e8\u05d9\u05dd",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 309.4125391569611
+    },
+    {
+        "location": {
+            "latitude": 32.6611309,
+            "longitude": 35.105897399999996
+        },
+        "rating": 4.3,
+        "userRatingCount": 4,
+        "displayName": {
+            "text": "\u05e6'\u05d9\u05e6'\u05d5-\u05d1\u05e8 \u05d0\u05d5\u05db\u05dc \u05de\u05e8\u05d5\u05e7\u05d0\u05d9",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 459.3513297875687
+    },
+    {
+        "location": {
+            "latitude": 32.6629856,
+            "longitude": 35.1065186
+        },
+        "rating": 3,
+        "userRatingCount": 2,
+        "displayName": {
+            "text": "\u05e2\u05d5\u05e3 \u05d1\u05d8\u05e2\u05dd \u05d4\u05e9\u05e3",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 278.145903623299
+    },
+    {
+        "location": {
+            "latitude": 32.6610158,
+            "longitude": 35.1057104
+        },
+        "rating": 3.9,
+        "userRatingCount": 7,
+        "displayName": {
+            "text": "\u05d4\u05de\u05d0\u05d4 \u05d4-21",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 469.8183936492085
+    }
+]

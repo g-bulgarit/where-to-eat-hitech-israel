@@ -1,0 +1,262 @@
+[
+    {
+        "location": {
+            "latitude": 31.804111000000002,
+            "longitude": 35.206116
+        },
+        "rating": 4.3,
+        "userRatingCount": 3119,
+        "displayName": {
+            "text": "Entrecote",
+            "languageCode": "en"
+        },
+        "distance_to_center": 406.51404203226457
+    },
+    {
+        "location": {
+            "latitude": 31.796896399999994,
+            "longitude": 35.2132868
+        },
+        "rating": 4.4,
+        "userRatingCount": 1053,
+        "displayName": {
+            "text": "Goldy's | \u05d2\u05d5\u05dc\u05d3\u05d9\u05e1' - \u05d1\u05d9\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc \u05d0\u05d5\u05db\u05dc \u05de\u05d5\u05db\u05df \u05d5\u05d1\u05d9\u05d9\u05e7\u05e8\u05d9",
+            "languageCode": "en"
+        },
+        "distance_to_center": 709.7529274890264
+    },
+    {
+        "location": {
+            "latitude": 31.800226199999997,
+            "longitude": 35.2109489
+        },
+        "rating": 4,
+        "userRatingCount": 2212,
+        "displayName": {
+            "text": "Ricotta Restaurant",
+            "languageCode": "en"
+        },
+        "distance_to_center": 282.7700518451367
+    },
+    {
+        "location": {
+            "latitude": 31.8002738,
+            "longitude": 35.211082399999995
+        },
+        "rating": 4.2,
+        "userRatingCount": 1754,
+        "displayName": {
+            "text": "Rodriguez",
+            "languageCode": "en"
+        },
+        "distance_to_center": 281.82638817155936
+    },
+    {
+        "location": {
+            "latitude": 31.8006855,
+            "longitude": 35.2101508
+        },
+        "rating": 4.1,
+        "userRatingCount": 80,
+        "displayName": {
+            "text": "\u05d4\u05e8 \u05d7\u05d5\u05e6\u05d1\u05d9\u05dd",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 218.85874262225505
+    },
+    {
+        "location": {
+            "latitude": 31.800400999999997,
+            "longitude": 35.212041
+        },
+        "rating": 4.6,
+        "userRatingCount": 116,
+        "displayName": {
+            "text": "Caballero/ \u05e7\u05d0\u05d1\u05dc\u05e8\u05d5",
+            "languageCode": "en"
+        },
+        "distance_to_center": 313.0649729686684
+    },
+    {
+        "location": {
+            "latitude": 31.803890199999994,
+            "longitude": 35.2131118
+        },
+        "rating": 4.3,
+        "userRatingCount": 530,
+        "displayName": {
+            "text": "Doctor Pizza",
+            "languageCode": "en"
+        },
+        "distance_to_center": 320.5558392845216
+    },
+    {
+        "location": {
+            "latitude": 31.797504900000003,
+            "longitude": 35.2167339
+        },
+        "rating": 4.5,
+        "userRatingCount": 1008,
+        "displayName": {
+            "text": "Hadar Geula",
+            "languageCode": "en"
+        },
+        "distance_to_center": 852.893889519781
+    },
+    {
+        "location": {
+            "latitude": 31.800888,
+            "longitude": 35.2107276
+        },
+        "rating": 3.7,
+        "userRatingCount": 204,
+        "displayName": {
+            "text": "Sam's Burgers",
+            "languageCode": "en"
+        },
+        "distance_to_center": 206.22033483505035
+    },
+    {
+        "location": {
+            "latitude": 31.794428099999994,
+            "longitude": 35.208620499999995
+        },
+        "rating": 4.3,
+        "userRatingCount": 330,
+        "displayName": {
+            "text": "Burger Bite",
+            "languageCode": "en"
+        },
+        "distance_to_center": 925.2308323374561
+    },
+    {
+        "location": {
+            "latitude": 31.794289799999998,
+            "longitude": 35.2133482
+        },
+        "rating": 4.7,
+        "userRatingCount": 535,
+        "displayName": {
+            "text": "Nish Nush",
+            "languageCode": "en"
+        },
+        "distance_to_center": 981.4367843813523
+    },
+    {
+        "location": {
+            "latitude": 31.7948185,
+            "longitude": 35.2083683
+        },
+        "rating": 4.3,
+        "userRatingCount": 634,
+        "displayName": {
+            "text": "Big Bite",
+            "languageCode": "en"
+        },
+        "distance_to_center": 886.2455586917778
+    },
+    {
+        "location": {
+            "latitude": 31.800913299999998,
+            "longitude": 35.2100187
+        },
+        "rating": 4.5,
+        "userRatingCount": 90,
+        "displayName": {
+            "text": "\u05e1\u05d1\u05ea\u05d0 \u05d9\u05de\u05d9\u05de\u05d4",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 193.33698074531958
+    },
+    {
+        "location": {
+            "latitude": 31.800400999999997,
+            "longitude": 35.212041
+        },
+        "rating": 4.3,
+        "userRatingCount": 351,
+        "displayName": {
+            "text": "\u05d0\u05d4\u05e8\u05d5\u05e0\u05e1 \u05de\u05e1\u05e2\u05d3\u05ea \u05d1\u05e9\u05e8\u05d9\u05dd \u05d5\u05d0\u05d5\u05db\u05dc \u05d1\u05d9\u05ea\u05d9",
+            "languageCode": "en"
+        },
+        "distance_to_center": 313.0649729686684
+    },
+    {
+        "location": {
+            "latitude": 31.7947759,
+            "longitude": 35.2077922
+        },
+        "rating": 4.4,
+        "userRatingCount": 395,
+        "displayName": {
+            "text": "\u05de\u05d5\u05d8\u05d9'\u05e1 - Moti's",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 902.262635278281
+    },
+    {
+        "location": {
+            "latitude": 31.794758599999998,
+            "longitude": 35.2078664
+        },
+        "rating": 4.5,
+        "userRatingCount": 30,
+        "displayName": {
+            "text": "Foodex pizza",
+            "languageCode": "en"
+        },
+        "distance_to_center": 902.4979255994695
+    },
+    {
+        "location": {
+            "latitude": 31.794457899999998,
+            "longitude": 35.2084273
+        },
+        "rating": 4.4,
+        "userRatingCount": 159,
+        "displayName": {
+            "text": "Mr Bagel",
+            "languageCode": "en"
+        },
+        "distance_to_center": 924.8150468570427
+    },
+    {
+        "location": {
+            "latitude": 31.7943993,
+            "longitude": 35.2080267
+        },
+        "rating": 4.8,
+        "userRatingCount": 37,
+        "displayName": {
+            "text": "\u05e4\u05d9\u05e0\u05d0\u05dd",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 938.2565215057289
+    },
+    {
+        "location": {
+            "latitude": 31.8022632,
+            "longitude": 35.2091026
+        },
+        "rating": 4.3,
+        "userRatingCount": 255,
+        "displayName": {
+            "text": "\u05de\u05e8\u05d9\u05e0\u05d3\u05d4",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 99.76424441474128
+    },
+    {
+        "location": {
+            "latitude": 31.804017999999996,
+            "longitude": 35.2137451
+        },
+        "rating": 4.1,
+        "userRatingCount": 290,
+        "displayName": {
+            "text": "Refresh",
+            "languageCode": "en"
+        },
+        "distance_to_center": 380.97537064380157
+    }
+]

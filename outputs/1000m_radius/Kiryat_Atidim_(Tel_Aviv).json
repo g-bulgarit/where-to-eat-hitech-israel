@@ -1,0 +1,262 @@
+[
+    {
+        "location": {
+            "latitude": 32.1099224,
+            "longitude": 34.8405563
+        },
+        "rating": 4.5,
+        "userRatingCount": 9039,
+        "displayName": {
+            "text": "Hudson Brasserie",
+            "languageCode": "en"
+        },
+        "distance_to_center": 630.6235719870966
+    },
+    {
+        "location": {
+            "latitude": 32.1113266,
+            "longitude": 34.839049599999996
+        },
+        "rating": 4,
+        "userRatingCount": 4260,
+        "displayName": {
+            "text": "HaGarage",
+            "languageCode": "en"
+        },
+        "distance_to_center": 569.7972421047939
+    },
+    {
+        "location": {
+            "latitude": 32.1104529,
+            "longitude": 34.8425176
+        },
+        "rating": 4.1,
+        "userRatingCount": 4966,
+        "displayName": {
+            "text": "Segev Express",
+            "languageCode": "en"
+        },
+        "distance_to_center": 529.607021241871
+    },
+    {
+        "location": {
+            "latitude": 32.1082555,
+            "longitude": 34.8380566
+        },
+        "rating": 4.1,
+        "userRatingCount": 3031,
+        "displayName": {
+            "text": "Giraffe",
+            "languageCode": "en"
+        },
+        "distance_to_center": 902.4841478257913
+    },
+    {
+        "location": {
+            "latitude": 32.108557999999995,
+            "longitude": 34.8384029
+        },
+        "rating": 4.2,
+        "userRatingCount": 2729,
+        "displayName": {
+            "text": "Burgus Burger Bar",
+            "languageCode": "en"
+        },
+        "distance_to_center": 856.8347211231786
+    },
+    {
+        "location": {
+            "latitude": 32.1099224,
+            "longitude": 34.8405563
+        },
+        "rating": 3.9,
+        "userRatingCount": 74,
+        "displayName": {
+            "text": "\u05e9\u05d9\u05e4\u05d5\u05d3\u05d9 \u05e6\u05d9\u05e4\u05d5\u05e8\u05d4 \u05e8\u05de\u05ea \u05d4\u05d7\u05d9\u05d9\u05dc \u05db\u05e9\u05e8",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 630.6235719870966
+    },
+    {
+        "location": {
+            "latitude": 32.108907,
+            "longitude": 34.8401083
+        },
+        "rating": 4.1,
+        "userRatingCount": 1305,
+        "displayName": {
+            "text": "Pinat HaShlosha restaurant",
+            "languageCode": "en"
+        },
+        "distance_to_center": 751.2761905816368
+    },
+    {
+        "location": {
+            "latitude": 32.1112424,
+            "longitude": 34.838798499999996
+        },
+        "rating": 4.6,
+        "userRatingCount": 1187,
+        "displayName": {
+            "text": "Agatha",
+            "languageCode": "en"
+        },
+        "distance_to_center": 592.5117166859017
+    },
+    {
+        "location": {
+            "latitude": 32.1180125,
+            "longitude": 34.8401256
+        },
+        "rating": 4.4,
+        "userRatingCount": 198,
+        "displayName": {
+            "text": "\u05e4\u05d9\u05e6\u05d4 \u05e9\u05de\u05e9",
+            "languageCode": "en"
+        },
+        "distance_to_center": 415.43732285987045
+    },
+    {
+        "location": {
+            "latitude": 32.110050099999995,
+            "longitude": 34.8376485
+        },
+        "rating": 3.5,
+        "userRatingCount": 228,
+        "displayName": {
+            "text": "Mexicana",
+            "languageCode": "en"
+        },
+        "distance_to_center": 763.7367244531176
+    },
+    {
+        "location": {
+            "latitude": 32.111141499999995,
+            "longitude": 34.838715
+        },
+        "rating": 3.1,
+        "userRatingCount": 259,
+        "displayName": {
+            "text": "Domino\u2019s Pizza",
+            "languageCode": "en"
+        },
+        "distance_to_center": 606.1266485670684
+    },
+    {
+        "location": {
+            "latitude": 32.1089397,
+            "longitude": 34.8386572
+        },
+        "rating": 3.4,
+        "userRatingCount": 195,
+        "displayName": {
+            "text": "Pizza Hut",
+            "languageCode": "en"
+        },
+        "distance_to_center": 808.0535310248196
+    },
+    {
+        "location": {
+            "latitude": 32.110025,
+            "longitude": 34.841534599999996
+        },
+        "rating": 4.7,
+        "userRatingCount": 331,
+        "displayName": {
+            "text": "\u05d5\u05d2'\u05d9 Veggie",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 591.7991674298287
+    },
+    {
+        "location": {
+            "latitude": 32.1097077,
+            "longitude": 34.839289
+        },
+        "rating": 4.2,
+        "userRatingCount": 389,
+        "displayName": {
+            "text": "Liv",
+            "languageCode": "en"
+        },
+        "distance_to_center": 704.193893644812
+    },
+    {
+        "location": {
+            "latitude": 32.1099275,
+            "longitude": 34.838135099999995
+        },
+        "rating": 4.9,
+        "userRatingCount": 27,
+        "displayName": {
+            "text": "The LUX",
+            "languageCode": "en"
+        },
+        "distance_to_center": 744.8576160360875
+    },
+    {
+        "location": {
+            "latitude": 32.118141099999995,
+            "longitude": 34.8394775
+        },
+        "rating": 3.5,
+        "userRatingCount": 42,
+        "displayName": {
+            "text": "\u05e9\u05d5\u05d5\u05d0\u05e8\u05de\u05d4 \u05d0\u05dc\u05d9\u05d4\u05d5 \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 467.7216547388022
+    },
+    {
+        "location": {
+            "latitude": 32.114624,
+            "longitude": 34.8428955
+        },
+        "rating": 3.3,
+        "userRatingCount": 61,
+        "displayName": {
+            "text": "\u05d9\u05d0\u05e9\u05e7\u05d4 - \u05e4\u05d0\u05e8\u05e7 \u05e2\u05ea\u05d9\u05d3\u05d9\u05dd",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 64.16601684766917
+    },
+    {
+        "location": {
+            "latitude": 32.1096954,
+            "longitude": 34.837741799999996
+        },
+        "rating": 4.7,
+        "userRatingCount": 128,
+        "displayName": {
+            "text": "\u05e2\u05d3\u05d9\u05e7\u05d4- \u05de\u05d8\u05d1\u05d7 \u05d9\u05e8\u05d5\u05e9\u05dc\u05de\u05d9",
+            "languageCode": "en"
+        },
+        "distance_to_center": 788.1862732130405
+    },
+    {
+        "location": {
+            "latitude": 32.1098619,
+            "longitude": 34.8417698
+        },
+        "rating": 4.5,
+        "userRatingCount": 11,
+        "displayName": {
+            "text": "\u05e9\u05d5\u05d5\u05d0\u05e8\u05de\u05d4 \u05e2\u05e0\u05d5\u05ea\u05d9 Anouti",
+            "languageCode": "en"
+        },
+        "distance_to_center": 604.7810048637855
+    },
+    {
+        "location": {
+            "latitude": 32.109071,
+            "longitude": 34.83894910000001
+        },
+        "rating": 3.7,
+        "userRatingCount": 167,
+        "displayName": {
+            "text": "Rotisserie Chicken Club",
+            "languageCode": "en"
+        },
+        "distance_to_center": 781.6509759450836
+    }
+]

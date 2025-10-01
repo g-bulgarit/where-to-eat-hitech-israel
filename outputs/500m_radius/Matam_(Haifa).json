@@ -1,0 +1,249 @@
+[
+    {
+        "location": {
+            "latitude": 32.79039,
+            "longitude": 34.9558143
+        },
+        "rating": 4.4,
+        "userRatingCount": 2901,
+        "displayName": {
+            "text": "Beach Club Haifa",
+            "languageCode": "en"
+        },
+        "distance_to_center": 415.51379721615814
+    },
+    {
+        "location": {
+            "latitude": 32.790614999999995,
+            "longitude": 34.9639739
+        },
+        "rating": 4.3,
+        "userRatingCount": 6614,
+        "displayName": {
+            "text": "HaBokrim Steak House",
+            "languageCode": "en"
+        },
+        "distance_to_center": 491.7073750635529
+    },
+    {
+        "location": {
+            "latitude": 32.7898165,
+            "longitude": 34.9589649
+        },
+        "rating": 4.3,
+        "userRatingCount": 3,
+        "displayName": {
+            "text": "\u05de\u05ea\u05d7\u05dd \u05de\u05ea\u05dd \u05d7\u05d9\u05e4\u05d4",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 175.56921337265348
+    },
+    {
+        "location": {
+            "latitude": 32.7900105,
+            "longitude": 34.9582027
+        },
+        "rating": 4.5,
+        "userRatingCount": 266,
+        "displayName": {
+            "text": "Pok\u00e9 Van",
+            "languageCode": "en"
+        },
+        "distance_to_center": 225.2659206390562
+    },
+    {
+        "location": {
+            "latitude": 32.789426,
+            "longitude": 34.963719
+        },
+        "rating": 3.1,
+        "userRatingCount": 747,
+        "displayName": {
+            "text": "McDonald's",
+            "languageCode": "en"
+        },
+        "distance_to_center": 414.45249650668205
+    },
+    {
+        "location": {
+            "latitude": 32.790909299999996,
+            "longitude": 34.963805199999996
+        },
+        "rating": 4.1,
+        "userRatingCount": 83,
+        "displayName": {
+            "text": "\u05d2'\u05e4\u05e0\u05d9\u05e7\u05d4 \u05e7\u05d5\u05d5\u05d9\u05e7 \u05d7\u05d9\u05e4\u05d4 \u05db\u05e9\u05e8",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 496.71349728515935
+    },
+    {
+        "location": {
+            "latitude": 32.7895563,
+            "longitude": 34.9640184
+        },
+        "rating": 3.7,
+        "userRatingCount": 152,
+        "displayName": {
+            "text": "Oshi Oshi",
+            "languageCode": "en"
+        },
+        "distance_to_center": 445.5723353006403
+    },
+    {
+        "location": {
+            "latitude": 32.789528,
+            "longitude": 34.9638183
+        },
+        "rating": 3.4,
+        "userRatingCount": 41,
+        "displayName": {
+            "text": "\u05e9\u05d5\u05d5\u05d0\u05e8\u05de\u05d4 \u05d7\u05d6\u05df \u05e4\u05d5\u05e8\u05d3",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 426.81058616718997
+    },
+    {
+        "location": {
+            "latitude": 32.7896503,
+            "longitude": 34.9636412
+        },
+        "rating": 4.8,
+        "userRatingCount": 19,
+        "displayName": {
+            "text": "\u05e0\u05d9\u05d5\u05d3\u05dc\u05d9 Newdeli",
+            "languageCode": "en"
+        },
+        "distance_to_center": 415.84888759414645
+    },
+    {
+        "location": {
+            "latitude": 32.789535,
+            "longitude": 34.963777
+        },
+        "rating": 2.1,
+        "userRatingCount": 20,
+        "displayName": {
+            "text": "\u05d1\u05d5\u05e8\u05d2\u05e8 \u05e8\u05d0\u05e0\u05e5\u05f3",
+            "languageCode": "en"
+        },
+        "distance_to_center": 423.40123714978074
+    },
+    {
+        "location": {
+            "latitude": 32.784646900000006,
+            "longitude": 34.9623688
+        },
+        "rating": 4.1,
+        "userRatingCount": 10,
+        "displayName": {
+            "text": "\u05d4\u05e4\u05d5\u05e0\u05d3\u05e7 \u05e4\u05d5\u05d3\u05d8\u05e8\u05d0\u05e7",
+            "languageCode": "en"
+        },
+        "distance_to_center": 487.8504276277826
+    },
+    {
+        "location": {
+            "latitude": 32.783896999999996,
+            "longitude": 34.960302
+        },
+        "rating": 4.6,
+        "userRatingCount": 9,
+        "displayName": {
+            "text": "Mansoura",
+            "languageCode": "en"
+        },
+        "distance_to_center": 496.3365961765175
+    },
+    {
+        "location": {
+            "latitude": 32.7899804,
+            "longitude": 34.9581914
+        },
+        "rating": 4.6,
+        "userRatingCount": 7,
+        "displayName": {
+            "text": "Hawaiian Street Food",
+            "languageCode": "en"
+        },
+        "distance_to_center": 223.02463183711248
+    },
+    {
+        "location": {
+            "latitude": 32.7896211,
+            "longitude": 34.9643497
+        },
+        "rating": 2.5,
+        "userRatingCount": 30,
+        "displayName": {
+            "text": "Mr. corn",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 477.28505785448573
+    },
+    {
+        "location": {
+            "latitude": 32.7896001,
+            "longitude": 34.9643118
+        },
+        "rating": 3.9,
+        "userRatingCount": 20,
+        "displayName": {
+            "text": "\u05d0\u05d5\u05d8\u05d5 \u05db\u05e0\u05d0\u05e4\u05d4",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 473.1930145091772
+    },
+    {
+        "location": {
+            "latitude": 32.7895579,
+            "longitude": 34.963872099999996
+        },
+        "rating": 3.9,
+        "userRatingCount": 13,
+        "displayName": {
+            "text": "\u05e4\u05d9\u05e6\u05e8\u05d9\u05d4 \u05e8\u05d5\u05de\u05d9\u05dc\u05d9 \u05d5\u05e4\u05dc\u05d0\u05e4\u05dc \u05d0\u05e8\u05de\u05d5\u05df",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 432.6472230324188
+    },
+    {
+        "location": {
+            "latitude": 32.789269,
+            "longitude": 34.963755
+        },
+        "rating": 3.5,
+        "userRatingCount": 2,
+        "displayName": {
+            "text": "\u05e9\u05d9\u05df \u05d9\u05d0\u05e0\u05d2",
+            "languageCode": "en"
+        },
+        "distance_to_center": 412.77657716802287
+    },
+    {
+        "location": {
+            "latitude": 32.7897922,
+            "longitude": 34.9586724
+        },
+        "rating": 4.3,
+        "userRatingCount": 126,
+        "displayName": {
+            "text": "\u05e9\u05d5\u05e8\u05e9\u05d9\u05dd",
+            "languageCode": "iw"
+        },
+        "distance_to_center": 182.73558484903964
+    },
+    {
+        "location": {
+            "latitude": 32.789474399999996,
+            "longitude": 34.964195
+        },
+        "rating": 5,
+        "userRatingCount": 1,
+        "displayName": {
+            "text": "So Good",
+            "languageCode": "en"
+        },
+        "distance_to_center": 458.6254046071612
+    }
+]
